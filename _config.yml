@@ -2,9 +2,16 @@ theme: jekyll-theme-slate
 title: Erik Thorsell
 description: An online portfolio mixed up with thoughts.
 
-email:
 baseurl:
 url:
 
-twitter_username: erikthorsell
-github_username:  erikthorsell
+social:
+  - title: linkedin
+    url: https://linkedin.com/in/thorsellerik
+  - title: twitter
+    url: https://twitter.com/erikthorsell
+  - title: github
+    url: https://github.com/erikthorsell
+  - title: email
+    url: mailto:erik@thorsell.cc
+
