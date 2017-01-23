@@ -1,8 +1,10 @@
 theme: jekyll-theme-slate
-
----
 title: This is my title
-layout: post
----
 
-Here is my page.
+email:
+description:
+baseurl:
+url:
+
+twitter_username: erikthorsell
+github_username:  erikthorsell
