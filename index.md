@@ -7,7 +7,11 @@ date: 2017-01-23 17:48:58
 
 My name is Erik Thorsell and I created this site to have something to put on my
 resumé as a point of contact between you and me. The idea is that this site may
-act as a springboard to relevant information about my persona. So, lets begin.
+act as a springboard to relevant information about my persona. If you found
+this site through other means *but* my resumé, [here it
+is]{{site.url}}/download/erikthorsell_cv.pdf.
+
+So, lets begin.
 
 
 ## Who am I, and what do I do? ##
