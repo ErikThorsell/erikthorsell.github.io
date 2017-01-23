@@ -1,9 +1,8 @@
 theme: jekyll-theme-slate
 title: Erik Thorsell
-subtitle: An online portfolio mixed up with thoughts.
+description: An online portfolio mixed up with thoughts.
 
 email:
-description:
 baseurl:
 url:
 
