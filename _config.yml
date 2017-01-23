@@ -3,7 +3,7 @@ title: Erik Thorsell
 description: An online portfolio mixed up with thoughts.
 
 baseurl:
-url:https://erikthorsell.github.io
+url:"erikthorsell.github.io"
 
 social:
   - title: linkedin
