@@ -8,10 +8,14 @@ url:
 social:
   - title: linkedin
     url: https://linkedin.com/in/thorsellerik
+    logo: /_images/linkedin.png
   - title: twitter
     url: https://twitter.com/erikthorsell
+    logo: /_images/twitter.png
   - title: github
     url: https://github.com/erikthorsell
+    logo: /_images/github.png
   - title: email
     url: mailto:erik@thorsell.cc
+    logo: /_images/email.png
 
