@@ -2,9 +2,6 @@ theme: jekyll-theme-slate
 title: Erik Thorsell
 description: An online portfolio mixed up with thoughts.
 
-baseurl:
-url:"erikthorsell.github.io"
-
 social:
   - title: linkedin
     url: https://linkedin.com/in/thorsellerik
