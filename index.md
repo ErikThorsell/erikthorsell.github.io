@@ -30,6 +30,15 @@ music/worship in my church. My free time is spent sport climbing with my
 girlfriend, fiddling with (breaking...) my computer and reading
 [XKCD comics](https://xkcd.com/1787/) (yes, I use dvorak).
 
+# Notes #
+
+I am a notorious note taker and throughout my education people have often asked
+me for notes, so I decided to upload all notes I take (that are somewhat good
+and consistent) and share with the world. Currently they are shared through my
+ownCloud installation and can be found [here](https://wirsenius.se:1339/index.php/s/aHfPK1Gp3xA3YdU).
+Note that my installation uses HTTPS but lacks a valid SSL certificate. (I
+know, it really shouldn't, but I haven't gotten around to fix that.)
+Regardless, enjoy the notes.
 
 # Posts #
 
