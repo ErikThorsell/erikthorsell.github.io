@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2017-01-23 17:48:58
+date: 2017-04-26 16:37:19
 ---
 
 # An Introduction #
@@ -23,22 +23,28 @@ at Chalmers University of Technology. I have chosen to target my degree at
 `Machine Learning`, `Artificial Intelligence` and the ethics surrounding these
 fields.
 
-When not studying, I work part time at [NEVS](https://www.nevs.com/en/) as an
-engineer (I do all sorts of stuff, hence the ambiguous title) and when I don't
-do anything related to neither school nor work I am responsible for the
-music/worship in my church. My free time is spent sport climbing with my
-girlfriend, fiddling with (breaking...) my computer and reading
-[XKCD comics](https://xkcd.com/1787/) (yes, I use dvorak).
+Before I started my master's studies I spent a summer working for NASA at the
+Goddard Space Flight Center. (You can find mine, and my comrades, work
+[here](https://github.com/ErikThorsell/GSFC_Internship/).) During the first
+year of my master I also worked part time at [NEVS](https://www.nevs.com/en/)
+as an engineer (I did all sorts of stuff, hence the ambiguous title, but mostly
+Matlab and LaTeX). When I don't do anything related to neither school nor work
+I am responsible for the music/worship in my church and my free time is spent
+climbing with my girlfriend, fiddling with (breaking...) my computers and
+reading [XKCD comics](https://xkcd.com/1787/) (yes, I use dvorak, the [Svorak
+A5-layout](http://aoeu.info/s/dvorak/images/svorak-A5.png)).
+
 
 # Notes #
 
 I am a notorious note taker and throughout my education people have often asked
 me for notes, so I decided to upload all notes I take (that are somewhat good
 and consistent) and share with the world. Currently they are shared through my
-ownCloud installation and can be found [here](https://wirsenius.se:1339/index.php/s/aHfPK1Gp3xA3YdU).
-Note that my installation uses HTTPS but lacks a valid SSL certificate. (I
-know, it really shouldn't, but I haven't gotten around to fix that.)
-Regardless, enjoy the notes.
+ownCloud installation and can be found
+[here](https://wirsenius.se:1339/index.php/s/aHfPK1Gp3xA3YdU).  Note that my
+installation uses HTTPS but lacks a valid SSL certificate. (I know, it really
+shouldn't, but I haven't gotten around to fix that.) Regardless, enjoy the
+notes.
 
 # Posts #
 
