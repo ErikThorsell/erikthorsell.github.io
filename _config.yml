@@ -5,14 +5,14 @@ description: An online portfolio mixed up with thoughts.
 social:
   - title: linkedin
     url: https://linkedin.com/in/thorsellerik
-    logo: /_images/linkedin.png
+    logo: /logos/linkedin.png
   - title: twitter
     url: https://twitter.com/erikthorsell
-    logo: /_images/twitter.png
+    logo: /logos/twitter.png
   - title: github
     url: https://github.com/erikthorsell
-    logo: /_images/github.png
+    logo: /logos/github.png
   - title: email
     url: mailto:erik@thorsell.cc
-    logo: /_images/email.png
+    logo: /logos/email.png
 
