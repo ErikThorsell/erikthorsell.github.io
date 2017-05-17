@@ -30,7 +30,7 @@ year of my master I also worked part time at [NEVS](https://www.nevs.com/en/)
 as an engineer (I did all sorts of stuff, hence the ambiguous title, but mostly
 Matlab and LaTeX). When I don't do anything related to neither school nor work
 I am responsible for the music/worship in my church and my free time is spent
-climbing with my girlfriend, fiddling with (breaking...) my computers and
+climbing with my fiancé, fiddling with (breaking...) my computers and
 reading [XKCD comics](https://xkcd.com/1787/) (yes, I use dvorak, the [Svorak
 A5-layout](http://aoeu.info/s/dvorak/images/svorak-A5.png)).
 
