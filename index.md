@@ -1,6 +1,14 @@
 ---
 layout: default
-date: 2017-04-26 16:37:19
+date: 2017-06-13 HH:MM:SS
+---
+
+# Resumé, Notes and GitHub-page #
+
+    * [My resumé](https://erikthorsell.github.io/download/erikthorsell_cv.pdf)
+    * [My notes](https://wirsenius.se:1339/index.php/s/aHfPK1Gp3xA3YdU)
+    * [My GitHub-page](https://github.com/ErikThorsell)
+
 ---
 
 # An Introduction #
@@ -11,7 +19,7 @@ act as a springboard to relevant information about my persona. If you found
 this site through other means *but* my resumé, [here it
 is]({{site.url}}/download/erikthorsell_cv.pdf).
 
-So, lets begin.
+So, let's begin.
 
 
 ## Who am I, and what do I do? ##
