@@ -5,9 +5,9 @@ date: 2017-06-13 HH:MM:SS
 
 # Resumé, Notes and GitHub-page #
 
-[My resumé](https://erikthorsell.github.io/download/erikthorsell_cv.pdf)
-[My notes](https://wirsenius.se:1339/index.php/s/aHfPK1Gp3xA3YdU)
-[My GitHub-page](https://github.com/ErikThorsell)
+* [My resumé](https://erikthorsell.github.io/download/erikthorsell_cv.pdf)
+* [My notes](https://wirsenius.se:1339/index.php/s/aHfPK1Gp3xA3YdU)
+* [My GitHub-page](https://github.com/ErikThorsell)
 
 ---
 
