@@ -5,7 +5,7 @@ date: 2017-06-13 HH:MM:SS
 
 # Resumé, Notes and GitHub-page #
 
-* [My resumé](https://erikthorsell.github.io/download/erikthorsell_cv.pdf)
+* [My resumé]({{site.url}}/download/erikthorsell_cv.pdf)
 * [My notes](https://wirsenius.se:1339/index.php/s/aHfPK1Gp3xA3YdU)
 * [My GitHub-page](https://github.com/ErikThorsell)
 
@@ -15,14 +15,14 @@ date: 2017-06-13 HH:MM:SS
 
 My name is Erik Thorsell and I created this site to have something to put on my
 resumé as a point of contact between you and me. The idea is that this site may
-act as a springboard to relevant information about my persona. If you found
-this site through other means *but* my resumé, [here it
-is]({{site.url}}/download/erikthorsell_cv.pdf).
+act as a springboard to relevant information about my persona. If you found this
+site through other means *but* my resumé, [here is the
+resumé]({{site.url}}/download/erikthorsell_cv.pdf).
 
 So, let's begin.
 
 
-## Who am I, and what do I do? ##
+# Who am I, and what do I do? #
 
 The spring of 2016 I acquired my BSc in Computer Science and Engineering and I
 am currently pursuing my MSc in [Computer Science, Algorithm's, Languages and
@@ -36,10 +36,14 @@ Goddard Space Flight Center. (You can find mine, and my comrades, work
 [here](https://github.com/ErikThorsell/GSFC_Internship/).) During the first
 year of my master I also worked part time at [NEVS](https://www.nevs.com/en/)
 as an engineer (I did all sorts of stuff, hence the ambiguous title, but mostly
-Matlab and LaTeX). When I don't do anything related to neither school nor work
-I am responsible for the music/worship in my church and my free time is spent
-climbing with my fiancé, fiddling with (breaking...) my computers and
-reading [XKCD comics](https://xkcd.com/1787/) (yes, I use dvorak, the [Svorak
+Matlab and LaTeX). The summer of 2017 I hold an internship at Volvo Cars, as
+part of their [VESC
+Programme](http://www.volvocars.com/intl/about/our-company/careers/students).
+
+When I don't do anything related to neither school nor work I am responsible
+for the music/worship in my church and my free time is spent climbing with my
+fiancé, fiddling with (breaking...) my computers and reading [XKCD
+comics](https://xkcd.com/1787/) (yes, I use dvorak, the [Svorak
 A5-layout](http://aoeu.info/s/dvorak/images/svorak-A5.png)).
 
 
