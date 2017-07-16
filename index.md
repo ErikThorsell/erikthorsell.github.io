@@ -3,7 +3,7 @@ layout: default
 date: 2017-06-13 HH:MM:SS
 ---
 
-# Resumé, Notes and GitHub-page #
+# Resources #
 
 * [My resumé]({{site.url}}/download/erikthorsell_cv.pdf)
 * [My notes](https://wirsenius.se/index.php/s/0uiVskgkO6e9onr)
