@@ -63,11 +63,16 @@ A5-layout](http://aoeu.info/s/dvorak/images/svorak-A5.png)).
 
 # Notes #
 
-I am a notorious note taker and throughout my education people have often asked
-me for notes, so I decided to upload all notes I take (that are somewhat good
-and consistent) and share with the world.
-Currently they are shared through my ownCloud installation and can be found
-[here](https://wirsenius.se/index.php/s/0uiVskgkO6e9onr).
+## Currently unavailable ##
+
+I caught the [Intel Atom C2000 bug](https://www.theregister.co.uk/2017/02/06/cisco_intel_decline_to_link_product_warning_to_faulty_chip/).
+I expect to be onboard again sometime around 2017-12-09.
+
+
+[//]: # (I am a notorious note taker and throughout my education people have often asked)
+[//]: # (me for notes, so I decided to upload all notes I take and share with the world.)
+[//]: # (Currently they are shared through my Nextcloud installation and can be found)
+[//]: # ([here](https://wirsenius.se/index.php/s/0uiVskgkO6e9onr.)
 
 # Posts #
 
