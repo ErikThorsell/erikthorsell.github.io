@@ -6,8 +6,8 @@ date: 2017-06-13 HH:MM:SS
 # Resources #
 
 * [My resumé]({{site.url}}/download/erikthorsell_cv.pdf)
-[//]: # ( * [~My notes~](https://wirsenius.se/index.php/s/0uiVskgkO6e9onr) )
 * [My GitHub-page](https://github.com/ErikThorsell)
+[//]: # (* [~My notes~](https://wirsenius.se/index.php/s/0uiVskgkO6e9onr))
 
 ---
 
