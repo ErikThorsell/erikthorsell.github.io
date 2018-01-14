@@ -9,6 +9,8 @@ date: 2017-06-13 HH:MM:SS
 * [My GitHub-page](https://github.com/ErikThorsell)
 [//]: # (* [~My notes~](https://wirsenius.se/index.php/s/0uiVskgkO6e9onr))
 
+[//]: # (* [~My notes~](https://wirsenius.se/index.php/s/0uiVskgkO6e9onr))
+
 ---
 
 # An Introduction #
