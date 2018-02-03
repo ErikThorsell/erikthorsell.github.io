@@ -163,13 +163,15 @@ a { text-decoration: none; color: #007edf; text-shadow: none; transition: color 
 
 a:hover, a:focus { text-decoration: underline; }
 
-footer a { color: #F2F2F2; text-decoration: underline; }
+/*footer a { color: #F2F2F2; text-decoration: underline; }*/
+footer a { color: #F2F2F2; }
 
 em { font-style: italic; }
 
 strong { font-weight: bold; }
 
-img { position: relative; margin: 0 auto; max-width: 739px; padding: 5px; margin: 10px 0 10px 0; border: 0px solid #ebebeb; box-shadow: 0 0 0 #ebebeb; -webkit-box-shadow: 0 0 0 #ebebeb; -moz-box-shadow: 0 0 0 #ebebeb; -o-box-shadow: 0 0 0 #ebebeb; -ms-box-shadow: 0 0 0 #ebebeb; }
+/*img { position: relative; margin: 0 auto; max-width: 739px; padding: 5px; margin: 10px 0 10px 0; border: 0px solid #ebebeb; box-shadow: 0 0 0 #ebebeb; -webkit-box-shadow: 0 0 0 #ebebeb; -moz-box-shadow: 0 0 0 #ebebeb; -o-box-shadow: 0 0 0 #ebebeb; -ms-box-shadow: 0 0 0 #ebebeb; }*/
+img { position: relative; margin: 0 auto; max-width: 739px; padding: 5px; }
 
 p img { display: inline; margin: 0; padding: 0; vertical-align: middle; text-align: center; border: none; }
 
@@ -210,7 +212,7 @@ Full-Width Styles
 *******************************************************************************/
 .outer { width: 100%; }
 
-.inner { position: relative; max-width: 640px; padding: 20px 10px; margin: 0 auto; }
+.inner { position: relative; max-width: 640px; padding: 0px 0px; margin: 0 auto; }
 
 #forkme_banner { display: block; position: absolute; top: 0; right: 10px; z-index: 10; padding: 10px 50px 10px 10px; color: #fff; background: url("../images/blacktocat.png") #0090ff no-repeat 95% 50%; font-weight: 700; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; }
 
@@ -221,6 +223,8 @@ Full-Width Styles
 #project_title { margin: 0; color: #fff; font-size: 42px; font-weight: 700; text-shadow: #111 0px 0px 10px; }
 
 #project_tagline { color: #fff; font-size: 24px; font-weight: 300; background: none; text-shadow: #111 0px 0px 10px; }
+
+#header_link { color: #fff; font-size: 20px; font-weight: 300; background: none; text-shadow: #111 0px 0px 10px; }
 
 #downloads { position: absolute; width: 210px; z-index: 10; bottom: -40px; right: 0; height: 70px; background: url("../images/icon_download.png") no-repeat 0% 90%; }
 

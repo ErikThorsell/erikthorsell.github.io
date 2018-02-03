@@ -20,13 +20,12 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
+          <h3> <a href="{{site.baseurl}}/index">Home</a>&emsp;
+               <a href="{{site.url}}/download/erikthorsell_cv.pdf">Resume</a>&emsp;
+               <a href="{{site.baseurl}}/blog">Blog</a>&emsp;
+               <a href="{{site.baseurl}}/notes">Notes</a>&emsp;
+               <a href="{{site.baseurl}}/contact">Contact</a>
+          </h3>
 
         </header>
     </div>
@@ -44,13 +43,13 @@
         <p>Contact me on: &emsp;
         <a target="_blank" href="https://linkedin.com/in/thorsellerik">
             <img src={{site.url}}/logos/linkedin.png width=64 height=64>
-        </a> &emsp;
+        </a>&emsp;
         <a target="_blank" href="https://twitter.com/erikthorsell">
             <img src={{site.url}}/logos/twitter.png width=64 height=64>
-        </a> &emsp;
+        </a>&emsp;
         <a target="_blank" href="https://github.com/erikthorsell">
             <img src={{site.url}}/logos/github.png width=64 height=64>
-        </a> &emsp;
+        </a>&emsp;
         <a target="_blank" href="mailto:erik@thorsell.cc">
             <img src={{site.url}}/logos/email.png width=64 height=64>
         </a>
