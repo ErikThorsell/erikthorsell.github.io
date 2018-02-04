@@ -18,11 +18,14 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 id="project_title">
+              <a style="color:#fff" href="{{site.baseurl}}/index">{{ site.title | default: site.github.repository_name }}</a></h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          <h3> <a href="{{site.baseurl}}/index">Home</a>&emsp;
+          <h3> <!-- <a href="{{site.baseurl}}/about">About</a>&emsp;
+               <a href="{{site.baseurl}}/education">Education</a>&emsp;
+               <a href="{{site.baseurl}}/work">Work</a>&emsp; -->
                <a href="{{site.url}}/download/erikthorsell_cv.pdf">Resume</a>&emsp;
-               <a href="{{site.baseurl}}/blog">Blog</a>&emsp;
+               <a href="{{site.baseurl}}/guides">Guides</a>&emsp;
                <a href="{{site.baseurl}}/notes">Notes</a>&emsp;
                <a href="{{site.baseurl}}/contact">Contact</a>
           </h3>
