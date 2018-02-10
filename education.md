@@ -8,8 +8,8 @@ date: 2018-02-03 13:37:00
 Nine years of primary school, three years in art school, one year at a
 theological leadership school, one year doing a science year in order to do five
 years of engineering studies.
-That is 19 years of school, below is a short summary of what I have learned and
-what it has meant to me.
+That is 19 years of school, below is a (not so) short summary of what I have
+learned and what it has meant to me.
 
 ---
 
