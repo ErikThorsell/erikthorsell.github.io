@@ -10,7 +10,7 @@ resume as a point of contact between you and me.
 In a couple of months I will have spent 19 consecutive years in school. I have
 studied music and performance, leadership, and I soon have a B.Sc., an M.Sc. and
 an M.Sc.Eng. in computer science. In addition to my broad education I have
-worked summer - and part time - jobs along side my studies. Journalism at my
+worked summer - and part time - jobs along side my studies. Journalist at my
 home town news paper, go-kart track manager, software developer at NASA, machine
 learning engineer at a start up; I have tried a lot. I am a curious guy and I
 really like to learn new things. Over the years I have become very disciplined
