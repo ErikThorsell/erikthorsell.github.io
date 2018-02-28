@@ -7,7 +7,7 @@ title: Machine Learning and FreeNAS
 
 ---
 
-I have been trying all sorts of ways to install Tensorflow (and
+I have been trying all sorts of ways to install TensorFlow (and
 Keras) on my FreeNAS.
 There is AFAIK *one* guide (of which there are several derivatives) for [How to
 install TF on BSD](https://ecc-comp.blogspot.se/2016/06/tensorflow-on-freebsd.html).
@@ -29,21 +29,36 @@ I would suggest you simply follow the steps outlined in the [FreeNAS
 docs](https://doc.freenas.org/11/vms.html#docker-rancher-vm) in order to get up
 and running.
 
-# Tensorflow and Keras
+# TensorFlow and Keras
 
 *This is still WIP as I want to find a way of "commiting" programs to be run on
 my server. As for now, I use Jupyter.*
 
 When you have your RancherUI VM and an additional host where you plan on running
 your machine learning container, it is time to find a suitable docker image.
-As for now, the best image I have found is `gw000/keras-full:latest`.
-It can be found [on GitHub](https://github.com/gw0/docker-keras-full/) and
-offers a full Tensorflow (GPU and CPU) + Keras + Jupyter environment.
+As for now, the best image I have found is a manipulated version of
+`gw000/keras:2.1.3-py3-tf-cpu`, to which I have added Jupyter support.
+The original Dockerfile can be found [on
+GitHub](https://github.com/gw0/docker-keras/blob/2.1.3/Dockerfile.py3-tf-cpu)
+and my modified version can be found
+[HERE]({{site.url}}/download/Dockerfile.keras-jupyter-cpu).
 
-Getting up and running is as easy as:
+In order to build your image you must download the Dockerfile and build it.
 
-    docker run -d -p 8888:8888 -v $(pwd):/srv gw000/keras-full:latest
+    wget erikthorsell.github.io/download/Dockerfile.keras-jupyter-cpu
+    docker build -t debian:keras .
+
+`-t debian:keras` tags the image and `.` is the directory where the Dockerfile
+resides (current directory).
+
+When your image is built you can use `docker run` to start the container as:
+
+    docker run -d -p 8888:8888 -v $(pwd):/srv gw000/keras-full
 
 which will start the Jupyter web if on `http://<server-ip>:8888/` with password
 `keras`.
 Notebooks stored in the current directory will be mapped to `/srv`.
+
+---
+
+Good luck approaching the singularity.
