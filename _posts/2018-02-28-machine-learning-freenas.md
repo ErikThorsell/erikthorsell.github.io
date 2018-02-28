@@ -53,11 +53,11 @@ resides (current directory).
 
 When your image is built you can use `docker run` to start the container as:
 
-    docker run -d -p 8888:8888 -v $(pwd):/srv gw000/keras-full
+    docker run -d -p 8888:8888 -v $(pwd):/srv debian:keras
 
 which will start the Jupyter web if on `http://<server-ip>:8888/` with password
 `keras`.
-Notebooks stored in the current directory will be mapped to `/srv`.
+Files stored in the current directory will be mapped to `/srv`.
 
 ---
 
