@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/erikthorsell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://erikthorsell.github.io
+  * I am erikthorsell (https://keybase.io/erikthorsell) on keybase.
+  * I have a public key with fingerprint 4C99 67A8 625E 816B D683  5D85 2B71 38D3 DA12 237B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010116870106e91089942dbe2d045ad99eef187f0ad0dca45a16c85ba888ec1d012a0a",
+      "fingerprint": "4c9967a8625e816bd6835d852b7138d3da12237b",
+      "host": "keybase.io",
+      "key_id": "2b7138d3da12237b",
+      "kid": "010116870106e91089942dbe2d045ad99eef187f0ad0dca45a16c85ba888ec1d012a0a",
+      "uid": "1fe008b76d5fa439d8d8732547decd19",
+      "username": "erikthorsell"
+    },
+    "service": {
+      "hostname": "erikthorsell.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1520491012,
+  "expire_in": 157680000,
+  "prev": "bfb54fc93c50abb5b7f57fd9c164f998643e6c4c6667254617d036736e566830",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNGAnicrVJtUFRVGN4twiC+JKdMZgOuDmWszP3+WIMANUYUxI/BSG27955z2QvL
+3mXvBWSIAAUhkwZlmnFkYICZiEkcdSkUlBg+jYAAHTPIHMN0rJiKjBDR6C7VP392
+/rxz3vM8z3me95w+/ycNvsbIbPbKZPDqAuNQd1OO4c36Sa8CRFBAPmIpQDLhUoF2
+AFXNmikDxIKgGIphNMvolYYchrIcR+JAgDhASYoHHAehhLGMhPIABSKv9zBaZCmB
+Z1kWihhAMZxHecSMSLIjHbqcLtmh6bKkyHE0w7M0TkEWowVAswQFWAoXGIxgAQF4
+DMcJRtCJNkX1MHRzAq/CKFnRe/rGumTvMfj/2XfOkhwmQRRlBYYGlMSTBAdYwDIE
+TpEMgCLAOA9QhS4HnwV1NHTJmZpNcanQbkcKzYh+kiuL0DNcT5rHoKLSZc2WI/yT
+zulSNEVU7DrGpmlO1eLR0PKdHlIeFKz/ylkF2QH0qeqMXOhSZcWBWDAdKWqyRx+j
+cJTUk2O4GYH7nbILWmUPgmJoFtWX5x6Yq0sKkkCRksgRIoXygkAJjEQxEuBEjCYl
+jmNpkoC0SIo0TTN6YhpjAErQDEFDitafDUU8AbMdCmIhMN0nn65rqnK6g9dyXBAp
+7One62Uw+hq8n3rC890Mvj5B/33Cg2OBj1aGT2ScLlu4hP463/tc/IS04ozyQd/8
+kDvl+NG6ubDT3pbIE3dP/Vy1jk81kPfaPh6nMiIVtH7GBzxYfJkudqbc3tAYkhSx
+/vtBTo7zLclunX143f1M7BfrTjTgFVhq2o7wLrMx3m+orb855vNrATHGRG3YBiJ+
+iw6Kvznhnzu1MkANNWUNUEhhd6O8cC95W2bhrl+i8tSwF+Kud90omnyEL3ZGX3I3
+vr31wLsj1Qt+5/MPN61qDf1h8/ZyU+DrZyvbqlZH7Umbypk1Pds/8uPlxMDL+9PW
+MmGJ7JF9DcUDNW9k+SNVq16jyo/GZjS1L5/S9kZOb9wR09lrX5zr8LHOfvdV6Utj
+0w0VR0a9yp3fpHWM7cwzLeuJ3xIRNLAl5lhVz4WH5oCnD18Jq6/bPN+3ONa1rEX5
+NGm869veOHtC8ztls7XB1ZFXsY0zJXcuRMysHT503l3Qf3LsZt2t2tZKLSztz8qQ
+cwXRHx6sUE7WmHa6kVdCdjf8YcLXl4x3Pu+3rfO94t0pX5tvmJtCK7o6wnMNF+9O
+13wZMnwrL7q+5ix/9b7YaXzgmKgur01ERuU914KRwbK4fYmxzqy/bMfpdnd9wqmJ
++2dK37etaRlpJzfdHpoM2PXZqJq8ddMgJJN+LyrZnjFX99GLBy4Kks+rP7XIK5YX
+JZQeS63xviMfWpOQib/1ybnk5r8B5enDzA==
+=CYd9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/erikthorsell
+
+==================================================================
+
