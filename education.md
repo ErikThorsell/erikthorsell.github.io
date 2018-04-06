@@ -30,8 +30,8 @@ of people (hey, I've sung solo and worn theater make up in front of thousands of
 people).
 Being good at speaking in front of others is such an underrated skill and I
 think engineers should spend much more time refining how to *present their
-ideas*.
-Now it might be the case that a good idea is lost due to poor presentation.
+ideas*, or it might be the case that a good idea is lost due to poor
+presentation.
 
 ### Leadership education ###
 
@@ -91,7 +91,7 @@ We developed four different ways to classify recorded, transcribed, calls into
 "good calls" and "bad calls", giving SOS Alarm a good foundation when doing
 evaluations of their operators.
 
-After three years I graduated with a 4.4 / 5 GPA.
+After three years I graduated with a `4.4 / 5 GPA`.
 I decided to apply to the masters program: Computer Science -- Algorithms,
 Languages and Logic, because of the freedom to pick a lot of elective courses
 and tailor your education.
@@ -128,4 +128,9 @@ in general (and recurrent neural networks in particular) to predict the future
 speed of a car, as well as the remaining distance of a current route.
 The quirk is that said predictions should be done *only* using past information
 about driving speed and driven distance. (E.g. I must not use the GPS signal.)
+
+Since the M.Sc. thesis is *pass* or *fail* (and I have passed all my exams on
+the first try) I will graduate with a `4.7 / 5 GPA`.
+Overall, I am very satisfied with my education and looking back at my choices I
+think I made the right ones.
 
