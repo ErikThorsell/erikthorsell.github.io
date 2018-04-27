@@ -26,13 +26,4 @@ The notes below are left as is and you should take into consideration that:
  * [TIN174]({{site.url}}/notes/TIN174_Complete_2016.pdf)
  * [TMV170]({{site.url}}/notes/TMV170_Complete_2013.pdf)
 
-
-
-[//]: # ## Currently unavailable ##
-
-[//]: # I caught the [Intel Atom C2000 bug](https://www.theregister.co.uk/2017/02/06/cisco_intel_decline_to_link_product_warning_to_faulty_chip/)
-[//]: # and setting up my Nextcloud installation is on my todo-list, albeit not the top
-[//]: # priority.
-[//]: # Hence, it might take a while until the notes appear here again.
-
-
+<center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</center>
