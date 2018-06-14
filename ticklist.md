@@ -8,7 +8,7 @@ date: 2018-02-03 13:37:00
 *Climbed routes, maybe a comment, and occasionally a photo.*
 
 
-### Kenneths led ###
+### Fjällbo, Kenneths led ###
 
 **Date:** 2018-06-10
 
