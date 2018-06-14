@@ -123,14 +123,12 @@ and
 
 I was intrigued by the evident power of the machine learning techniques I
 encountered and opted to dive even deeper into that part of the CSE field.
-Hence, my M.Sc. thesis concerns whether it is possible to use machine learning
-in general (and recurrent neural networks in particular) to predict the future
-speed of a car, as well as the remaining distance of a current route.
-The quirk is that said predictions should be done *only* using past information
-about driving speed and driven distance. (E.g. I must not use the GPS signal.)
+Hence, my M.Sc. thesis concerned whether it is possible to use recurrent neural
+networks to predict the future speed of a car.
+The quirk is that said predictions were to be made *only* using past information
+locally available in the car. (E.g. it could not use the GPS signal or maps.)
 
-Since the M.Sc. thesis is *pass* or *fail* (and I have passed all my exams on
-the first try) I will graduate with a `4.7 / 5 GPA`.
+I graduated with a `4.7 / 5 GPA`.
 Overall, I am very satisfied with my education and looking back at my choices I
 think I made the right ones.
 
