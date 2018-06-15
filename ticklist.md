@@ -49,3 +49,18 @@ you only need nuts.
 
 **Anchor:** If finished to the right, trees, if finished to the left, a 0.75 cam
 and either a quite large or a quite small nut.
+
+---
+
+### Utby, Alfa Helix ###
+
+**Date:** 2018-06-13
+
+Starts of to the right of the big crack/opening. (Early pro will likely result
+in severe rope drag.) Difficult to put pro around the crux.
+
+**Gear:** Cam 2 in horizontal crack as first protection, one nut and maybe a
+small cam before the tree. Sling the tree as final pro. 
+
+**Anchor:** There is a bolted anchor to repel from, but for belaying your
+second I would use the tree in the corner of the plateaux.
