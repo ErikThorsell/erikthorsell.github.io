@@ -56,6 +56,8 @@ and either a quite large or a quite small nut.
 
 **Date:** 2018-06-13
 
+*not done*
+
 Starts of to the right of the big crack/opening. (Early pro will likely result
 in severe rope drag.) Difficult to put pro around the crux.
 
@@ -64,3 +66,47 @@ small cam before the tree. Sling the tree as final pro.
 
 **Anchor:** There is a bolted anchor to repel from, but for belaying your
 second I would use the tree in the corner of the plateaux.
+
+---
+
+### Gärdsås, Jug ###
+
+**Date:** 2018-06-16
+
+Nice route with two alternatives for the middle. All parts are easily protected.
+
+**Gear:** A little bit of each. Nice to have a size 2 cam behind the big block.
+
+**Anchor:** A tree and maybe a cam backup.
+
+---
+
+### Gärdsås, Luftmadrassen-ish ###
+
+**Date:** 2018-06-16
+
+Climbed the route but instead of traversing the second roof to Älgens
+Överraskning I went straight up. Really nice route nevertheless!
+
+**Gear:** Quite long route (uses a lot of gear). I used sizes 0.5, 0.75, and 1.
+Would have been nice with some more smaller cams. Placed quite a lot of nuts but
+only a couple felt bomber.
+
+**Anchor:** A juniper and two cams (size 3 and size 4) made a nice three point
+anchor.
+
+---
+
+### Gärdsås, Älgens Överraskning ###
+
+**Date:** 2018-06-16
+
+Such a nice route.
+
+**Gear:** Used a full Friend rack, except the 4. Could have used at least one
+(preferably two) more size 1 for the traverse (did it with only a bomber nut in
+the dihedral, that was intense...). Some nice nuts overall, but mostly vertical
+cracks.
+
+**Anchor:** Juniper and a size 4 cam.
+
