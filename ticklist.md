@@ -88,9 +88,9 @@ Nice route with two alternatives for the middle. All parts are easily protected.
 Climbed the route but instead of traversing the second roof to Älgens
 Överraskning I went straight up. Really nice route nevertheless!
 
-**Gear:** Quite long route (uses a lot of gear). I used sizes 0.5, 0.75, and 1.
-Would have been nice with some more smaller cams. Placed quite a lot of nuts but
-only a couple felt bomber.
+**Gear:** Quite long route (uses a lot of gear). I used sizes 0.5, 0.75, 1, and
+2. Would have been nice with some more smaller cams. Placed quite a lot of nuts
+but only a couple felt bomber.
 
 **Anchor:** A juniper and two cams (size 3 and size 4) made a nice three point
 anchor.
