@@ -91,7 +91,7 @@ We developed four different ways to classify recorded, transcribed, calls into
 "good calls" and "bad calls", giving SOS Alarm a good foundation when doing
 evaluations of their operators.
 
-After three years I graduated with a `4.4 / 5 GPA`.
+After three years I graduated with a `4.5 / 5 GPA`.
 I decided to apply to the masters program: Computer Science -- Algorithms,
 Languages and Logic, because of the freedom to pick a lot of elective courses
 and tailor your education.
