@@ -123,8 +123,10 @@ and
 
 I was intrigued by the evident power of the machine learning techniques I
 encountered and opted to dive even deeper into that part of the CSE field.
-Hence, my M.Sc. thesis concerned whether it is possible to use recurrent neural
-networks to predict the future speed of a car.
+Hence, [my M.Sc.
+thesis](http://studentarbeten.chalmers.se/publication/255285-vehicle-speed-profile-prediction-without-spatial-information)
+concerned whether it is possible to use recurrent neural networks to predict the
+future speed of a car.
 The quirk is that said predictions were to be made *only* using past information
 locally available in the car. (E.g. it could not use the GPS signal or maps.)
 

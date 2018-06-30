@@ -16,9 +16,10 @@ After studying music, performance, and leadership I now also hold a B.Sc., an
 M.Sc. and an M.Sc.Eng. in computer science.
 I wrote [my B.Sc.
 thesis](http://studentarbeten.chalmers.se/publication/244534-automatised-analysis-of-emergency-calls-using-natural-language-processing)
-on the topic of natural language processing (NLP) and my M.Sc. thesis *(yet to
-be published)* on the applicability of recurrent neural networks for making
-time-series predictions.
+on the topic of natural language processing (NLP) and [my M.Sc.
+thesis](http://studentarbeten.chalmers.se/publication/255285-vehicle-speed-profile-prediction-without-spatial-information)
+on the applicability of recurrent neural networks for making time-series
+predictions.
 I am a curious guy and I really like to learn new things.
 Check out [my resume]({{site.url}}/download/erikthorsell_cv.pdf), [work
 page]({{site.url}}/work), and [LinkedIn
