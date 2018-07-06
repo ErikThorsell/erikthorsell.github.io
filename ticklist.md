@@ -145,12 +145,14 @@ taste.
 
 *Not done*
 
-First goar placement I found was on the actual nose (5m up). It might be
-possible to place something in the first horizontal crack, but I could not find
-anything.
-I fell before the nose, then was able to mantle the nose and proceed to the wall
-climbing part, but with only a \#2 in the big horizontal crack I did not feel
-safe proceeding.
+First good placement I found was on the actual nose (5m up).
+It might be possible to place something in the first horizontal crack, but I
+could not find anything.
+I fell after placing my first piece, but before being able to mantle onto the
+nose.
+After a rest and securing my cam with a nut, I was able to proceed to the wall
+climbing part, but with only an additional \#2 in the big horizontal crack I did
+not feel safe proceeding up the slab.
 It is probably fine to take a fall there, but I'll probably TR this one before I
 give it another try.
 
