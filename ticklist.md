@@ -161,3 +161,17 @@ after the nose.
 
 **Anchor:** *N/A*
 
+---
+
+### Utby,  Asterik och Obelix ###
+
+**Date:** 2018-07-06
+
+Dihedron that offers som really nice stemming and crack climbing.
+
+**Gear:** \#.5, \#.75, and \#1 Friends. Finished of with a sling around the
+tree.
+
+**Anchor:** I did not belay my second from the top, but he opted to TR the route
+from the birch.
+
