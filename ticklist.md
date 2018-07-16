@@ -175,3 +175,41 @@ tree.
 **Anchor:** I did not belay my second from the top, but he opted to TR the route
 from the birch.
 
+---
+
+### Fjällbo, Gunnars Skräck ###
+
+**Date:** 2018-07-15
+
+A really nice slab, sort of in a dihedron.
+
+**Gear:** Some really nice nuts and maybe a \#1 friend.
+
+**Anchor:** Bolted if you do only the first part.
+
+---
+
+### Fjällbo, Skivblocket ###
+
+**Date:** 2018-07-15
+
+Spectacular piece of rock just standing there. Quite exposed and serious.
+
+**Gear:** \#.75 friend and one bolt. 
+
+**Anchor:** Bolted
+
+---
+
+### Fjällbo, ? ###
+
+**Date:** 2018-07-15
+
+A short crack. If you traverse to the right and then continue up the route is
+called Limus. We did not know this and went straight up (significantly easier).
+
+**Gear:** \#.5, \#.75, (\#1) friends, one big (13/14) nut in the upper section.
+
+**Anchor:** If you have duplicates of small cams, you can use these. I had to
+run into to the woods and find a tree...
+
