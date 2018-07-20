@@ -213,3 +213,41 @@ called Limus. We did not know this and went straight up (significantly easier).
 **Anchor:** If you have duplicates of small cams, you can use these. I had to
 run into to the woods and find a tree...
 
+---
+
+### Fjällbo, Chivas Regal ###
+
+**Date:** 2018-07-19
+
+Nice crack, with a mini traverse on a good ledge. Crack climbing that does not
+require jamming.
+
+**Gear:** A lot. Used a full set of friends (minus the \#4) and 4 or 5 nuts.
+
+**Anchor:** Trees. So many good trees.
+
+---
+
+### Fjällbo, Koskenkorva ###
+
+**Date:** 2018-07-19
+
+Crack to the right of the previous route that has given name to the crag. Not as
+nice as Chivas regal.
+
+**Gear:** A lot of cams and nuts.
+
+**Anchor:** Trees. So many good trees.
+
+---
+
+### Fjällbo, Drambuie ###
+
+**Date:** 2018-07-19
+
+First 5+ on-sight. Committing start, but not very difficult.
+
+**Gear:** \#.5 - \#1 and a \#3 friends, + a lot of nuts.
+
+**Anchor:** Trees. So many good trees.
+
