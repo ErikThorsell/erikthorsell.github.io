@@ -251,3 +251,15 @@ First 5+ on-sight. Committing start, but not very difficult.
 
 **Anchor:** Trees. So many good trees.
 
+---
+
+### Gärdsås, Mowgli ###
+
+**Date:** 2018-07-31
+
+Nice, shorter, route well in the shades on a very warm day.
+
+**Gear:** One 14 nut, and basically a set of friends. (Might have omitted the
+\#.75.)
+
+**Anchor:** A very big tree
