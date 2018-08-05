@@ -263,3 +263,64 @@ Nice, shorter, route well in the shades on a very warm day.
 \#.75.)
 
 **Anchor:** A very big tree
+
+---
+
+### Utby, Skärselden ###
+
+**Date:** 2018-08-04
+
+Crack climbing, but not very difficult. Nice route!
+
+**Gear:** A diverse rack is good.
+
+**Anchor:** Two medium sized nuts. Also trees available a bit further from the
+edge.
+
+---
+
+### Utby, Slabben ###
+
+**Date:** 2018-08-04
+
+Basically a huge block that forms a nice slab. You can see a video of my friend
+climbing it [HERE](LINK).
+
+**Gear:** Two nuts and a cam!
+
+**Anchor:** Nope. We simply jumped off at the end.
+
+---
+
+### Utby, Spagaten ###
+
+**Date:** 2018-08-04
+
+Such. A. Good. Route.
+
+I have probably climbed this route 10 times, but never on lead. The experience
+is so much more intense when leading it. Despite being very familiar with the
+route I went of the route a little bit (started doing the "direct" version,
+bumps the grade up one notch to a 6-) and had to down climb two moves. Ugh.
+Pulled myself together and finished the route. Intense!
+
+**Gear:** A lot of really nice nuts, but some cams are nice to have (\#1 and
+\#2).
+
+**Anchor:** There's a big block you can put a sling around. Also some bomber nut
+placements and if you have \#.5 and \#.75 cams there are good placements for
+those too.
+
+---
+
+### Utby, Torrsimmet ###
+
+**Date:** 2018-08-04
+
+Intense climbing that requires some really cool body jams. Spectacular body roll
+move at the end if one wants to avoid belly flopping your way up the last part.
+
+**Gear:** Definately requires big gear (used \#3 and \#4, could easily have used
+another of each). Some good nuts.
+
+**Anchor:** Sling around a big rock and a nut in the wall did the trick.
