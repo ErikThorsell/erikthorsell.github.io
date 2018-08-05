@@ -284,7 +284,7 @@ edge.
 **Date:** 2018-08-04
 
 Basically a huge block that forms a nice slab. You can see a video of my friend
-climbing it [HERE](LINK).
+climbing it [HERE](https://youtu.be/7xD2swL0-vg).
 
 **Gear:** Two nuts and a cam!
 
