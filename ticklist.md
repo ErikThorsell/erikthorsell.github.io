@@ -324,3 +324,30 @@ move at the end if one wants to avoid belly flopping your way up the last part.
 another of each). Some good nuts.
 
 **Anchor:** Sling around a big rock and a nut in the wall did the trick.
+
+---
+
+### Utby, Laybacksprickan ###
+
+**Date:** 2018-09-19
+
+Quite nice crack that offers one or two good layback moves.
+
+**Gear:** Small cams. Used 1/2 Alien Revo, 2x.5 Friends, and a couple of small
+nuts.
+
+**Anchor:** 240 sling around a tree.
+
+---
+
+### Utby, Mirceas Led ###
+
+**Date:** 2018-09-19
+
+A wonderful, but oh so short, finger crack. A bit tricky to get up onto, but
+offers solid crack climbing for 8 meters. [Video can be found here.](https://youtu.be/AJIaAwqW3xA)
+
+**Gear:** Mostly nuts, but a .5 Friend (or x4 in this case) was good to have.
+
+**Anchor:** 240 sling around a tree.
+
