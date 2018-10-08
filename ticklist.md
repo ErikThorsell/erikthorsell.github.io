@@ -351,3 +351,16 @@ offers solid crack climbing for 8 meters. [Video can be found here.](https://you
 
 **Anchor:** 240 sling around a tree.
 
+---
+
+### Fjällbo, Sodom ###
+
+**Date:** 2018-09-24
+
+Two routes in one(?). A bit weird, but quite good. Especially the upper half
+which offers some nice stemming in a tight dihedral. [Video](https://www.youtube.com/watch?v=37Ssu6yvgPc)
+
+**Gear:** A bit of everything
+
+**Anchor:** A #4 and a #.75 Friend. (There are trees further up that can be
+used.)
