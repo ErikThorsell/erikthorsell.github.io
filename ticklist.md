@@ -362,5 +362,52 @@ which offers some nice stemming in a tight dihedral. [Video](https://www.youtube
 
 **Gear:** A bit of everything
 
-**Anchor:** A #4 and a #.75 Friend. (There are trees further up that can be
+**Anchor:** A \#4 and a \#.75 Friend. (There are trees further up that can be
 used.)
+
+---
+
+### Ramberget, Dubbelsprickan ###
+
+**Date:** 2018-10-20
+
+The hardest 4- I have ever done. Ramberget in general seems quite sandbagged,
+but I guess that's what happens when one person establishes a whole crag? [Video](https://www.youtube.com/watch?v=2lVlR9JPYhg)
+
+**Gear:** Small to medium sized friends and a few nuts.
+
+**Anchor:** A \#4 and a \#3 Friend.
+
+---
+
+### Ramberget, Hörnet \[First Ascent\] ###
+
+**Date:** 2018-10-20
+
+A really, really, nice crack in a dihedral. Not in the guide book, but I have a
+hard time imagining this has not been climbed before. Nevertheless, I would
+grade this 5(-) but given the other grades in the area it is probably a 4(-).
+[Video](https://www.youtube.com/watch?v=DLVh9znhs1Y)
+
+**Gear:** \#1 friends and smaller
+
+**Anchor:** IIRC one \#4 and one larger nut.
+
+---
+
+### Ramberget, Taktraversen ###
+
+**Date:** 2018-10-20
+
+Probably the best route on the left wall (Ramberget constitutes of Stora Plattan
+to the left and Svarta Väggen to the right). Varied climbing with a non trivial
+traverse under a roof. We ended on the chain (which can be used for rappelling)
+but you can probably climb the last meter or so if you want to.
+
+**Gear:** Quite a lot. Requires quite big gear, but you may also find small cams
+useful.
+
+**Anchor:** I clipped the chain, was lowered, and belayed my second from the
+ground. Presumably much more convenient than attempting to build something at
+the top.
+
