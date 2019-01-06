@@ -283,8 +283,7 @@ edge.
 
 **Date:** 2018-08-04
 
-Basically a huge block that forms a nice slab. You can see a video of my friend
-climbing it [HERE](https://youtu.be/7xD2swL0-vg).
+Basically a huge block that forms a nice slab.
 
 **Gear:** Two nuts and a cam!
 
@@ -331,7 +330,7 @@ another of each). Some good nuts.
 
 **Date:** 2018-09-19
 
-Quite nice crack that offers one or two good layback moves.
+Quite nice crack that offers one or two good layback moves. [Video](https://www.youtube.com/watch?v=gyQ1ISd1idk)
 
 **Gear:** Small cams. Used 1/2 Alien Revo, 2x.5 Friends, and a couple of small
 nuts.
@@ -345,7 +344,7 @@ nuts.
 **Date:** 2018-09-19
 
 A wonderful, but oh so short, finger crack. A bit tricky to get up onto, but
-offers solid crack climbing for 8 meters. [Video can be found here.](https://youtu.be/AJIaAwqW3xA)
+offers solid crack climbing for 8 meters. [Video can be found here.](https://www.youtube.com/watch?v=aX2q-5WvtEE&t=18s)
 
 **Gear:** Mostly nuts, but a .5 Friend (or x4 in this case) was good to have.
 
@@ -358,7 +357,7 @@ offers solid crack climbing for 8 meters. [Video can be found here.](https://you
 **Date:** 2018-09-24
 
 Two routes in one(?). A bit weird, but quite good. Especially the upper half
-which offers some nice stemming in a tight dihedral. [Video](https://www.youtube.com/watch?v=37Ssu6yvgPc)
+which offers some nice stemming in a tight dihedral. [Video](https://www.youtube.com/watch?v=nUYm2ZG-ibE&t=71s)
 
 **Gear:** A bit of everything
 
