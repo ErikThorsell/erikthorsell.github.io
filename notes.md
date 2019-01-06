@@ -42,6 +42,14 @@ The content below is left as is and you should take into consideration that:
 
 ## Old Exams ##
 
-*tbd*
+ * [DAT060]({{site.url}}/exams/dat060_logic.pdf)
+ * [DAT151]({{site.url}}/exams/dat151_plt.pdf)
+ * [EEM076]({{site.url}}/exams/eem076_elkrak.pdf)
+ * [ERE103]({{site.url}}/exams/ere103_regler.pdf)
+ * [MVE085]({{site.url}}/exams/mve085_mvc.pdf)
+ * [TDA352]({{site.url}}/exams/tda352_cryptography.pdf)
+ * [TIN093]({{site.url}}/exams/tin093_algorithms.pdf)
+ * [TIN174]({{site.url}}/exams/tin174_ai.PDF)
+ * [TMV210]({{site.url}}/exams/tmv210_disk.pdf)
 
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</center>
