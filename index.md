@@ -16,11 +16,11 @@ where I work as a consultant at [HiQ Gothenburg](https://www.hiq.se/en/). At HiQ
 I work partly as a business area developer for our CI/CDD and AI/ML areas, and
 partly as a DevOps engineer at Ericsson. 
 
-When not working, I spend a lot of time outdoors. I am a certified *help
-instructor* according to the Swedish Climbing Federation. I also enjoy hiking
-and try to take at least one "multiple days hike" per month. The hiking
-intersects well with my love for coffee and nothing beats a steeped cup of
-coffee from a pot warmed by the camp fire.
+When not working, I spend a lot of time outdoors. I am a certified Swedish
+Climbing Federation *help instructor*. I also enjoy hiking, and try to take at
+least one "multiple days hike" per month. The hiking intersects well with my
+love for coffee and nothing beats a steeped cup of coffee from a pot warmed by
+the camp fire.
 
 
 # Academic and Work background #
@@ -36,7 +36,7 @@ thesis](http://studentarbeten.chalmers.se/publication/255285-vehicle-speed-profi
 on the applicability of recurrent neural networks for making time-series
 predictions.
 
-Work wise I have been working part time with machine learning related topics
+Work wise, I have been working part time with machine learning related topics
 since 2016. After graduating I have, however, been focusing mostly on CI/CDD,
 agile processes in general, and DevOps development in particular. For my first
 assignment as a consultant --- at HiQ Gothenburg --- I developed the Java-CI/CDD
@@ -52,6 +52,7 @@ page]({{site.url}}/work), and [LinkedIn
 profile](https://www.linkedin.com/in/thorsellerik/) if you want to read more
 about what I have done.
 
+---
 
 *If you have additional questions do not hesitate to contact me.
 Send me a PM on LinkedIn or an email at
