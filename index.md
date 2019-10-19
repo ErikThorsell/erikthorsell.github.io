@@ -16,6 +16,12 @@ where I work as a consultant at [HiQ Gothenburg](https://www.hiq.se/en/). At HiQ
 I work partly as a business area developer for our CI/CDD and AI/ML areas, and
 partly as a DevOps engineer at Ericsson. 
 
+When not working, I spend a lot of time outdoors. I am a certified *help
+instructor* according to the Swedish Climbing Federation. I also enjoy hiking
+and try to take at least one "multiple days hike" per month. The hiking
+intersects well with my love for coffee and nothing beats a steeped cup of
+coffee from a pot warmed by the camp fire.
+
 
 # Academic and Work background #
 
