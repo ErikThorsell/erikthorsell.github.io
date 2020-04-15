@@ -1,5 +1,5 @@
 ---
-title: Manually Upgrade Linux Kernel, Pop!\_OS
+title: Manually Upgrade Linux Kernel, Pop!_OS
 ---
 
 Upgrading the Linux Kernel manually is simple!

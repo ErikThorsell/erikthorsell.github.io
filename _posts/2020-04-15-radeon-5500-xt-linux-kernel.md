@@ -2,7 +2,7 @@
 title: Running Linux with RX Radeon 5500 XT
 ---
 
-# TL;DR
+**TL;DR**
 
 I have done the following, it is unclear to me exactly what is required. Maybe
 one day I'll do a fresh install and try one thing at the time...
