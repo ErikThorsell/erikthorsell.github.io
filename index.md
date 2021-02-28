@@ -16,7 +16,7 @@ the hotchpotch that I get to call life.
 When I don't work, I spend a lot of time outdoors.  Sorted by frequency: I
 [run](https://www.strava.com/athletes/48967952), I
 [climb](https://youtu.be/aX2q-5WvtEE?list=TLPQMTAwNTIwMjB3pLfqNJL8aw), and I
-[make fires](https://wirsenius.se/index.php/f/12183069)\*.
+[make fires](https://youtu.be/pRk4p2Um2Lo)\*.
 The running and fire making are solely for fun, but I am a certified Swedish
 Climbing Federation *help* instructor, meaning that I am actually somewhat
 knowledgable and serious about the climbing stuff!
@@ -36,6 +36,6 @@ read more about what I am doing, or have done.
 
 *If you have additional questions do not hesitate to contact me.
 Send me a PM on LinkedIn or an email at
-[erik@thorsell.cc](mailto:erik@thorsell.cc).
+[erik@thorsell.io](mailto:erik@thorsell.io).
 I am looking forward to hear from you and listen to what problems you have!*
 
