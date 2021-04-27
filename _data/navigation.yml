@@ -1,0 +1,9 @@
+main:
+  - title: "Resume"
+    url: /assets/erikthorsell_cv.pdf
+  - title: "Blog"
+    url: /posts/
+  - title: "Chalmers"
+    url: /chalmers/
+  - title: "Work with me"
+    url: /work-with-me/

@@ -1,18 +1,103 @@
-theme: jekyll-theme-slate
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
 title: Erik Thorsell
-description: Leading agile teams in telecom
+email: erik@thorsell.io
+description: >-
+  Webpage, portfolio, blog, and everything else.
+  Run by Erik Thorsell, DevOps enthusiast focusing on automating the world.
+twitter_username: erikthorsell
+github_username: erikthorsell
+minimal_mistakes_skin: dark
+search: true
 
-social:
-  - title: linkedin
-    url: https://linkedin.com/in/thorsellerik
-    logo: /logos/linkedin.png
-  - title: twitter
-    url: https://twitter.com/erikthorsell
-    logo: /logos/twitter.png
-  - title: github
-    url: https://github.com/erikthorsell
-    logo: /logos/github.png
-  - title: email
-    url: mailto:erik@thorsell.io
-    logo: /logos/email.png
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Stockholm
 
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Erik Thorsell"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "DevOps enthusiast that see the opportunity to automate -- everything."
+  links:
+    - label: "Resume"
+      icon: "far fa-file-alt"
+      url: "/assets/erikthorsell_cv.pdf"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/erikthorsell"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/thorsellerik/"
+    - label: "Email"
+      icon: "fab fas fa-envelope-square"
+      url: "mailto:erik@thorsell.io"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/erikthorsell"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/thorsellerik/"
+    - label: "Email"
+      icon: "fab fas fa-envelope-square"
+      url: "mailto:erik@thorsell.io"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+chalmers_archive:
+  type: liquid
+  path: /chalmers/
+tag_archive:
+  type: liquid
+  path: /tags/

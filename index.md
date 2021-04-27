@@ -1,41 +1,26 @@
 ---
-layout: default
-date: 2020-05-14 13:37:00
+layout: home
+author_profile: true
+title: "The essentials"
 ---
 
-  <a href="{{site.baseurl}}/img/erik.jpg">
-    <img align="right" src="{{site.baseurl}}/img/erik.jpg" width="200"/>
-  </a>
+DevOps enthusiast that see the opportunity to automate everything.
+Because I believe DevOps will do to software development, what Lean did to
+manufacturing.
 
-There are a lot of things in life that I really appreciate: my wife, making
-fires, rock climbing, trail running, solving difficult problems, and just
-hanging out with awesome people.
-At the moment, I am grateful that I am able to combine all of these things in
-the hotchpotch that I get to call life.
+## The elevator pitch
 
-When I don't work, I spend a lot of time outdoors.  Sorted by frequency: I
-[run](https://www.strava.com/athletes/48967952), I
-[climb](https://youtu.be/aX2q-5WvtEE?list=TLPQMTAwNTIwMjB3pLfqNJL8aw), and I
-[make fires](https://youtu.be/pRk4p2Um2Lo)\*.
-The running and fire making are solely for fun, but I am a certified Swedish
-Climbing Federation *help* instructor, meaning that I am actually somewhat
-knowledgable and serious about the climbing stuff!
-I also enjoy hiking, which intersects well with my love for coffee.
-Nothing beats a steeped cup of coffee from a pot warmed by the camp fire.
+I have been fascinated by automation for as long as I can remember.
+Ultimately automation comes down to doing less work, and who is not interested
+in freeing up time for other tasks?[^auto]
+In technology, automation often boils down to codifying knowledge and setting up
+triggers that execute the correct automation task at appropriate times.
+Automation free up developers to focus on creating new features, solve cool
+problems, and ultimately win the marketplace.
+I will go as far as to say that if you do *not* strive for increasing automation
+in your organization, you will lose the marketplace.
 
-*\* The climbing and fire making occurr quite infrequently nowadays, so the list
-might be incorrectly sorted...*
+If this resonates with you, get in touch and let's [discuss how we can work
+together](/work-with-me/).
 
-I am a curious guy and I really like to learn new things.
-Check out [my resume]({{site.url}}/download/erikthorsell_cv.pdf), the
-[about page]({{site.url}}/about), and
-[LinkedIn profile](https://www.linkedin.com/in/thorsellerik/) if you want to
-read more about what I am doing, or have done.
-
-### Contact ###
-
-*If you have additional questions do not hesitate to contact me.
-Send me a PM on LinkedIn or an email at
-[erik@thorsell.io](mailto:erik@thorsell.io).
-I am looking forward to hear from you and listen to what problems you have!*
-
+[^auto]: Naturally, these new tasks should also be evaluated as candidates for automation 😉
