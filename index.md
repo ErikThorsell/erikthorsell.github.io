@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "The essentials"
+title: "Automate Everything"
 ---
 
 DevOps enthusiast that see the opportunity to automate everything.
