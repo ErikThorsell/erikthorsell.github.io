@@ -50,7 +50,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "DevOps enthusiast that see the opportunity to automate -- everything."
   links:
-    - label: "Resume"
+    - label: "Resumé"
       icon: "far fa-file-alt"
       url: "/assets/erikthorsell_cv.pdf"
     - label: "GitHub"
