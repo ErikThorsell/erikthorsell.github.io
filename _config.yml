@@ -46,9 +46,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Erik Thorsell"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "DevOps enthusiast that see the opportunity to automate -- everything."
+  name: "Erik Thorsell"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "DevOps enthusiast that see the opportunity to automate -- everything."
   links:
     - label: "Resumé"
       icon: "far fa-file-alt"
@@ -60,8 +60,14 @@ author:
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/thorsellerik/"
     - label: "Email"
-      icon: "fab fas fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "mailto:erik@thorsell.io"
+    - label: "Är det helgdag?"
+      icon: "far fa-calendar"
+      url: "https://ärdethelgdag.se"
+    - label: "Kaffefiltret.se"
+      icon: "fas fa-coffee fa-xs"
+      url: "https://kaffefiltret.se"
 
 footer:
   links:
@@ -72,7 +78,7 @@ footer:
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/thorsellerik/"
     - label: "Email"
-      icon: "fab fas fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "mailto:erik@thorsell.io"
 
 defaults:
