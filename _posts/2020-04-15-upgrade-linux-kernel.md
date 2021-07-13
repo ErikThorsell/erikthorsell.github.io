@@ -37,7 +37,7 @@ to put your `.deb`-files.
 
 If you are using `grub`, I think all is fine here, but I'm running
 `systemd-boot` so according to
-[Frank](https://frank.kumro.io/installing-a-mainline-kernel-on-popos/) there
+[Frank](https://frank.kumro.io/posts/2019/08/installing-a-mainline-kernel-on-pop_os/) there
 are some extra steps. Head over to his site and read from *Copying the installed
 kernel to make it bootable* and down.
 
