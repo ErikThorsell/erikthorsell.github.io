@@ -126,7 +126,7 @@ Luckily, in our household, that means: *on weekends, before my wife wakes up*.
 [ap-ac-lite]: https://www.ui.com/unifi/unifi-ap-ac-lite/ "UniFi AP AC Lite product page"
 [unifi-controller]: https://www.ui.com/download/unifi/default/default/unifi-controller-v5-user-guide
 [unifi-cloud-key]: https://store.ui.com/collections/unifi-accessories/products/unifi-cloudkey
-[home-assistant]: "https://www.home-assistant.io/
+[home-assistant]: https://www.home-assistant.io/
 [zigbee]: https://zigbeealliance.org/solution/zigbee/
 [conbee]: https://phoscon.de/en/conbee2
 [ha-unifi]: https://github.com/hassio-addons/addon-unifi
