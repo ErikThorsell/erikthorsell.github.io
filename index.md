@@ -24,3 +24,5 @@ If this resonates with you, get in touch and let's [discuss how we can work
 together](/work-with-me/).
 
 [^auto]: Naturally, these new tasks should also be evaluated as candidates for automation 😉
+
+<script async src="//static.getclicky.com/101336394.js"></script>
