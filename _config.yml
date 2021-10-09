@@ -107,3 +107,7 @@ chalmers_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+jekyll_clicky:
+  site:
+    id: 101336394
