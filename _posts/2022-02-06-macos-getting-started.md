@@ -77,7 +77,7 @@ The idea seems to be that you should be able to repeat certain keys, while still
 and get the option to add some quirks to it"-feature*.
 
 <p align="center">
-  <img width="150" src="{{ site.url }}/assets/images/apple-key-long-press.png">
+  <img width="150" src="{{ site.url }}/assets/images/apple-key-long-press.webp">
 </p>
 
 I don't want that feature!
