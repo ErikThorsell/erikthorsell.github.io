@@ -5,55 +5,52 @@ permalink: /work-with-me/
 author_profile: true
 ---
 
-*I help teams increase their throughput and organizations improve the quality
-of their software deliveries.* 
+DevOps is speed, which is achievable when your operations department enables the development department to take
+complete ownership of their services.
 
-Despite having experience with all of the following, I do not want to label
-myself.
-I am not a developer, an architect, a coach, nor a manager.
-When we work together, I want you to ignore the *role* you think you need and
-focus on what problems your organization are facing and how we can collaborate
-to overcome them.
-If you strictly want a `[insert very specific job role here]` there's likely
-a better fit for you out there.
-But if you need a flexible person, who can help you assess your current
-situation and contribute in multiple ways to take your organization closer to
-delivering higher quality products in a less stressful way, I urge you to
-continue reading. 
-<!--
-If I need to get hands on as a keyboard warrior I will rise to the occasion.
-If your organization needs help understanding best practices and agile ways of
-working I have loads of experience to bring.
-If you need help redesigning your application's architecture, or you're starting
-from scratch, I can help you navigate your way towards a suitable solution for
-*your* product.
-On top of all of this, I always maintain my "think about the humans working
-with us" mentality that I have nurtured during my time as Team Facilitator and
-Line Manager.
--->
+If you succeed to give your developers the platform, tools, and space they need to be creative, they will deliver
+higher quality software at a faster pace.
+I can help your organization achieve this.
 
-My Modus Operandi is to use the most suitable tool for a particular issue.
-More often than not, the tool originates from the Agile or the DevOps movements,
-and -- as I am allergic to the *not invented here* mentality -- I strive to
-stand on the shoulders of giants and reuse battle tested concepts as opposed to
-reinventing the wheel.
+## Why am I successful at what I offer?
 
-For the most up-to-date info, please consult [my resumé][resume], but shortly;
-I have:
+My two biggest strengths are that I have done a little bit of everything and always strive to find new processes to
+streamline.
+The goal is always the same: Remove hurdles, increase speed, get better results.
 
-* technical knowhow and experience with software development;
-* worked with different software stacks and tools to implement and maintain
-  testing, integration & delivery pipelines;
-* led Cross Functional Teams (XFTs) using Scrum, Kanban & SAFE, and coached
-  the team members in Agile and DevOps principles;
-* experience as a manager and understand what it means to lead a large
-  organization;
-* a good understanding of DevOps, as defined by [Kim et al.][devops-handbook].
+My career started with software development and I still write code on a daily basis.
+However, it's not much Java SpringBoot anymore, but rather scripts for automating different steps in a product's
+value stream.
+Every so often I need to get waist deep in some actual application in order to understand how I can best help the
+team developing it, but I mostly focus on meta-programming[^meta-programming].
+
+After a couple of years as a developer, my career pivoted towards leadership.
+I have worked as a Scrum Master and a Team Facilitator, where I have helped teams find *their* best way of working.
+I also spent six months as Acting Line Manager at Ericsson.
+This taught me that I never want to become a manager again, but I also learned invaluable lessons about multi-team and
+organizational leadership, that I had not picked up from my time as a Team Facilitator.
+
+Now, I combine my technical knowhow with my leadership and management skills to help organizations deliver software
+faster.
+I draw inspiration from the DevOps movement because I believe that DevOps will do to software development what Lean did
+to manufacturing.
+
+---
 
 If the above resonates with you, let's get in touch!
 The easiest way to reach me is via [email](mailto:erik@thorsell.io), but feel
-free to use [LinkedIn](https://www.linkedin.com/in/thorsellerik/) if you prefer.
+free to use [LinkedIn](https://www.linkedin.com/in/thorsellerik/) if you so prefer.
 
 <!-- REFERENCES -->
+[^meta-programming]: *Not* application programming, but the programming you need to do to ensure you
+                     can safely and swiftly deploy services to production.
+                     Infrastructure as Code, integration and deployment pipelines, (automated) documentation, etc.
+
+[^swedish-saying]: Direct translation of a Swedish saying.
+
+[^soft-skill]: Not quite sure what is "soft" about what is commonly referred to as *soft skills*, but I think you get
+               what I mean.
+
+
 [devops-handbook]: https://www.goodreads.com/book/show/26083308-the-devops-handbook "The DevOps Handbook"
 [resume]: /assets/erikthorsell_cv.pdf "My resumé"
