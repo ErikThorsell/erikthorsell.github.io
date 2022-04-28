@@ -62,9 +62,6 @@ author:
     - label: "Email"
       icon: "fas fa-envelope-square"
       url: "mailto:erik@thorsell.io"
-    - label: "Kaffefiltret.se"
-      icon: "fas fa-coffee fa-xs"
-      url: "https://kaffefiltret.se"
 
 footer:
   links:
