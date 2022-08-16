@@ -1,0 +1,22 @@
+---
+title: Change filename to: YYYY-MM-DD-topic.md
+---
+
+# Heading
+
+Write something that you want to give a footnote[^footnote] and then [cite][reference] something.
+
+![simple image]({{ site.url }}/assets/images/an-image.png)
+
+<p align="center">
+  <img width="350" src="{{ site.url }}/assets/images/centered-image.png">
+  <img width="350" src="{{ site.url }}/assets/images/centered-image.png">
+</p>
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+<!-- FEET NOTES -->
+[^footnote]: Text goes here
+
+<!-- REFERENCES -->
+[reference]: https://example.com
