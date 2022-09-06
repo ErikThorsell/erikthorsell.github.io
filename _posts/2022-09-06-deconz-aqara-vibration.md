@@ -5,9 +5,10 @@ title: Configuring sensitivity of Aqara Vibration Sensor using deCONZ (Home Assi
 I have a vibration sensor from Aqara which monitors my laundry machine.
 However, the default sensitivity of the sensor is not sensitive enough to notice when the machine is running.
 
-_Side note, I was extremely surprised when I put my hand on the machine during.
+_Side note, I was extremely surprised when I put my hand on the washer.
 Even during its rinsing cycle, the vibrations barely reach the plastic shell of the machine.
-Well done Bosch!_
+Well done Bosch!
+But it does make my sensor job a bit more difficult..._
 
 # Modifying the sensitivity
 
@@ -30,7 +31,10 @@ In the post above, the author writes:
 > This will have a number at the end of the name, in this example mine is called binary_sensor.vibration_28.
 > So my entity id is 28.
 
-This is only the case if you do not modify the default entity_id provided by the deCONZ Integration.
+First, the number is not necessarily two digits.
+
+Furthermore, you will only find a number associated with your sensor if you do not modify the default entity_id
+provided by the deCONZ Integration.
 I prefer to _always_ modify my entities to give them more descriptive values.
 The vibration sensor of interest in this post, for instance, is called
 `binary_sensor.laundry_vibration_sensor`.
@@ -97,5 +101,5 @@ the sensor adopt the new sensitivity sooner, but I was not successful in doing s
 
 # Conclusion
 
-Nevertheless, these were the two things I lacked when reading through the blog post.
+These were the two things I lacked when reading through the blog post.
 Hopefully this helps you too!
