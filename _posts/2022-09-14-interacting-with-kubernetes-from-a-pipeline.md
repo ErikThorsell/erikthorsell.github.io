@@ -43,13 +43,13 @@ _Note that we decode both secrets. We will put them in a decoded state in GitHub
 First, we fetch the `ca.crt`.
 
 ```bash
-kubectl -n $NS get secret github-robot-secret -o json | jq -r '.data["ca.crt"]' | base64 --decode
+kubectl -n your-namespace get secret github-robot-secret -o json | jq -r '.data["ca.crt"]' | base64 --decode
 ```
 
 Then we need the `token`:
 
 ```bash
-kubectl -n $NS get secret github-robot-secret -o json | jq -r '.data["token"]' | base64 --decode
+kubectl -n your-namespace get secret github-robot-secret -o json | jq -r '.data["token"]' | base64 --decode
 ```
 
 # Create Role
