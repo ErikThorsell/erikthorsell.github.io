@@ -1,6 +1,4 @@
-When you work with Kubernetes you likely use `kubectl` from your local development environment.
-In your pipeline, however, you likely want to use a Service Account.
-This post outlines how to create such a Service Account and how to make use of it in a GitHub Workflow.
+This post outlines how to create a Service Account in a Kubernetes cluster and how to make use of it in a GitHub Workflow.
 
 # What we'll do
 
