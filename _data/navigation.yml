@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Resumé"
     url: /assets/erikthorsell_cv.pdf
   - title: "Blog"
