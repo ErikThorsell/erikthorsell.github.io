@@ -17,7 +17,10 @@ journey they are.
 ```yaml
 name: "Mirror repository to Azure DevOps"
 
-on: push
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   mirror:
@@ -51,6 +54,18 @@ jobs:
 
 Some things worth commenting on.
 
+#### Only mirror main
+
+In order to avoid confusion, we opted to only mirror the `main` branch of the GitHub repository.
+
+```yaml
+on:
+  push:
+    branches:
+      - main
+```
+
+
 #### Clone depth
 
 In order to be able to _push_ a git repository, it is not enough to do a shallow clone (which is the default for the
@@ -68,8 +83,10 @@ Setting `fetch-depth: 0` clones the entire repository.
 
 I could not get git over HTTPS to work.
 I started of with HTTPS because I thought it would be easier.
-Just do `git push https://$userame:password@url`, right?
+Just do `git push https://userame:password@url`, right?
 Nope...
+The issue is likely the format of Azure DevOps remote URL which has the format: `https://organization@dev.azure.com/organization/project/_git/repo`.
+That extra `@` really throws git off -- I think.
 
 Instead, I set up a public SSH key -- in Azure DevOps -- for the service account we're using to push the code and wrote
 some bash to get git to use the correct key.
@@ -79,7 +96,7 @@ The private part of the SSH key is stored as a secret in GitHub.
 - name: Setup SSH Config
   run: |
     mkdir -p ~/.ssh/
-    echo "${{ secrets.PRIVATE_RSA }}" > ~/.ssh/ado_rsa
+    echo "${{"{{ secrets.PRIVATE_RSA "}}}}" > ~/.ssh/ado_rsa
     cat << EOF >> ~/.ssh/config
     Host         ssh.dev.azure.com
     IdentityFile ~/.ssh/ado_rsa
