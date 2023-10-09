@@ -37,12 +37,12 @@ lead time and increase their revenue, get in touch and let's [discuss how we can
 > complete ownership of their services.
 
 If this sounds intriguing or interesting, checkout my [_work with me_]({{ site.base }}/work-with-me/) page.
-You'll find a little bit more info there, as well as my preferred ways for you to get in touch.
+You'll find more info about me and my company there, as well as my preferred ways for you to get in touch.
 
 ---
 
 # Latest blog posts
 
-{% for post in site.posts limit:3 %}  
+{% for post in site.posts limit:5 %}  
   <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>  
 {% endfor %}  
