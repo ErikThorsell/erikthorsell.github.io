@@ -3,11 +3,10 @@
 
 # Site settings
 title: Erik Thorsell
-email: erik@thorsell.io
+email: erik@requestforcoffee.dev
 description: >-
   Webpage, portfolio, blog, and everything else.
   Run by Erik Thorsell, DevOps Transformation Leader trying to automate the world.
-twitter_username: erikthorsell
 github_username: erikthorsell
 minimal_mistakes_skin: dark
 search: true
@@ -64,7 +63,7 @@ author:
       url: "https://www.linkedin.com/in/thorsellerik/"
     - label: "Email"
       icon: "fas fa-envelope-square"
-      url: "mailto:erik@thorsell.io"
+      url: "mailto:erik@requestforcoffee.dev"
 
 footer:
   links:
@@ -79,7 +78,7 @@ footer:
       url: "https://www.linkedin.com/in/thorsellerik/"
     - label: "Email"
       icon: "fas fa-envelope-square"
-      url: "mailto:erik@thorsell.io"
+      url: "mailto:erik@requestforcoffee.dev"
 
 defaults:
   # _posts
@@ -89,7 +88,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: false
       share: true
       related: true
