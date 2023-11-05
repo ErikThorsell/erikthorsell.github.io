@@ -1,0 +1,87 @@
+---
+title: Remote Work
+---
+
+Yesterday, I read the [Accelerate State of DevOps 2022 report][dora-2022].
+In the report, one can read the following about how organisations has tackled the COVID-19 pandemic with respect to
+in-office, remote, or hybrid work:
+
+> Findings showed that organisations with higher levels of employee flexibility have higher organisational performance
+> compared to organisations with more rigid work arrangements.
+> These findings provide evidence that giving employees the freedom to modify their work arrangements as needed has
+> tangible and direct benefits for an organisation.
+
+I'm a strong proponent of remote work.
+Before I graduated, I worked remotely for two different companies, and I have been working fully remote since the
+beginning of the COVID-19 pandemic[^wfh].
+Whenever a recruiter reach out to me[^recruiter], I seldom bother asking for more technical information about the role
+they are pitching, nor do I really care about the compensation package.
+First, I want to know whether the position is remote or not.
+
+<!--
+My wife is an elementary school teacher and she does not have the luxury of rolling out of bed, get a cup of coffee and
+be ready to work in 10 minutes.
+If she wakes up and feel under the weather she has 30 minutes (at most) before she must make a decision whether to call
+in sick or not.
+In order to be effective, she needs to be where the kids are, but I can bring my laptop anywhere and as long as I have
+an Internet connection I can do my job.
+Sure, I will be a little bit more efficient in my home office than I would be on an uncomfortable chair in my mom's
+living room, but when I got my hunting license I _did_ spend two weeks working from that living room, with great
+success.
+
+My lovely home office.
+
+![My home office]({{ site.url }}/assets/images/home-office.png)
+
+My not so lovely -- but still highly functional -- _mom office_.
+
+![Working from my mom's]({{ site.url }}/assets/images/working-from-mom.png)
+-->
+
+# Remote work waste less of my time
+
+I have previously written [a post about intentional vs unintentional time]({% post_url 2022-10-27-time %}).
+The number one reason I value working remotely so highly is exactly because of this: the increased flexibility that
+comes with remote (and by extension: asynchronous) work makes it possible for me to be more intentional with my time.
+Not only my _work_ time, but all of my time.
+
+In my post about unintentional time I wrote:
+
+> But few things frustrates me like wasting time.
+> Because wasted work time turns into wasted _free_ time; and I value my free time very, very, highly.
+
+The question then becomes: What constitutes wasted time?
+Let me propose a definition:
+
+> Wasted time is the time that your employer does not want to pay for, but it's time you spend because of your employer.
+
+Examples?
+
+Commuting.\\
+Idle time between adjacent tasks[^dead-time].\\
+**MORE?**
+
+But we must also consider the "opportunity cost" of not being able to use the wasted time for more meaningful things.
+Like having to go buy groceries on your way home from work, instead of using 30 minutes between two meetings to do so.
+Or not feeling able to make time for a workout because after 2 hours of commuting, 8 hours of work and a 1 hour lunch
+break, you just don't have the energy.
+
+<!-- --------------------------------------------------------------------------------------------------------------- -->
+
+<!-- FEET NOTES -->
+[^wfh]: I would have loved to work remotely sooner, but neither of my previous employers allowed it.
+
+[^recruiter]: I don't know why, but over the past couple of months the number of recruiters I hear from has increased,
+              a lot.
+
+[^unintentional-time]: [My previous post about unintentional time]({% post_url 2022-10-27-time %})
+
+[^dead-time]: In [my previous about unintentional time]({% post_url 2022-10-27-time %}) we called this dead time.
+              As mentioned in that post, dead time _is_ wasted time, but it's wasted time that we accept.
+
+
+<!-- REFERENCES -->
+[dora-2022]: https://cloud.google.com/blog/products/devops-sre/dora-2022-accelerate-state-of-devops-report-now-out
+[toggl]: https://toggl.com/track/
+[nevs]: https://www.nevs.com/en/
+[mis]: http://machineintelligence.se/
