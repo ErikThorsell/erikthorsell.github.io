@@ -5,35 +5,45 @@ permalink: /work-with-me/
 author_profile: true
 ---
 
-If you succeed to give your developers the platform, tools, and space they need to be creative, they will deliver
-higher quality software at a faster pace.
+My goal is to help organisations better understand and embrace the power of
+iterative improvements.
+I have a large interest in automation and feedback, and how these concepts
+can be applied to increase revenue in software development companies.
+
+I'm convinced that companies which strive to automate as much of their software
+lifecycle as possible as well as are attentive to their customers' needs, will
+deliver higher quality software at a faster pace.
 I can help your organisation achieve this.
 
 ## My background
 
 My career started with software development and I still write code on a daily basis.
 However, it's not much Java SpringBoot any more.
-Instead, I write code to automate processes (Python and Bash) and codify infrastructure (Terraform, Packer as well as
+Instead, I write code to automate processes (Python and Bash) and codify
+infrastructure (Terraform, Packer as well as
 Ansible).
 
 After a couple of years as a developer, my career pivoted towards leadership.
-I have worked as a Scrum Master and a Team Facilitator, where I have helped teams find *their* best way of working.
-I also spent six months as acting Line Manager at Ericsson and even though it was not the most fun six months of my
-career it taught me invaluable lessons about multi-team and organisational leadership.
+I have worked as a Scrum Master and a Team Facilitator, where I have helped
+teams find *their* best way of working.
+I also spent six months as acting Line Manager at Ericsson.
 
 ## My offering
 
-My two biggest strengths are that I have done a little bit of everything and that I always strive to improve.
+My two biggest strengths are that I have done a little bit of everything and
+that I always strive to improve.
 I understand management's point of view, sale's, operation's as well as the developers'.
-All parts of the organisation usually want to achieve similar things: Remove hurdles, increase speed, shorten the
-feedback loop, get better results, increase profit; but they see different ways there.
+All parts of the organisation usually want to achieve similar things: Remove hurdles,
+increase speed, shorten the feedback loop, get better results, increase profit; but
+they see different ways there.
 Together, we find a common way.
 
 Today, I lead a small consultancy: Request for Coffee.
-RFC focus on _everything DevOps_, be it strategic or practical, with a strong focus on combining technical know how with
-leadership and management skills to help organisations deliver software faster.
-I call myself a `DevOps Transformation Leader` and I believe that DevOps will do to software development what Lean
-did to manufacturing.
+RFC focus on _everything DevOps_, be it strategic or practical, with a strong
+focus on combining technical know how with leadership and management skills to
+help organisations deliver software faster.
+I call myself a `DevOps Transformation Leader` and I believe that DevOps will do
+to software development what Lean did to manufacturing.
 
 Let's transform your organisation, together.
 

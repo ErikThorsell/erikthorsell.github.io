@@ -1,43 +1,50 @@
 ---
 layout: single
 author_profile: true
-title: "It's all about time to market"
+title: "It's all about feedback"
 ---
 
-In order to win the marketplace, your company must deliver higher quality software -- *faster*.
+A successful company is able to provide a monetised solution to a user's problem.
+That seems easy enough, until you ask yourself the first (obvious) question:
 
-The emphasis on *faster* is crucial, because if you make the speed at which you deliver your product your highest
-priority, you will have to scrutinize all parts of your organization.
-No other key performance indicator will force you to understand your planning, development, testing, deployment and
-support processes like _speed_.
+> What problem am I trying to solve?
 
-I believe we achieve high speed by enabling developers to take complete ownership of the service or product they are
-expected to deliver.
-This will start a positive feedback loop where teams feel more confident experimenting, releasing new features, and
-taking accountability for their deliverables.
+You might be able to find a problem in your own life and think: "Others _must_
+have the same experience. I'm going to solve this!"
+After thinking hard, filling sketchbooks and whiteboards with ideas, and months
+of work you finally have your _thing_.
+Which gives rise to the second question:
 
-I believe in the DevOps principles.
+> Will my users pay for the solution I'm providing?
 
-<!-- 
-Unfortunately, the reality for many companies today is the opposite.
-Their portfolio consists of software bogged down with technical debt, which leads to lower quality deliveries, that
-gets released at an ever decreasing pace; because no one feels confident that the next release will actually work as
-expected.
-In today's competitive market, this will ultimately lead to higher turnover rates and difficulty recruiting new talent.
+In a perfect world, you _are_ able to count your chickens before they've hatched
+and can confidently say that your solution will be well received and loved by
+your users.
+But the world is not perfect.
+Until you have made your solution available to your users, you will not know
+whether they like it or not.
 
-*You will lose the marketplace.*
+Phrased differently, you find an answer to the question above by receiving
+`feedback`.
 
-I believe we break the downward spiral by looking at *both*: (1) your organization and how you divide work between your
-teams, as well as (2) your software architecture, tech stack, and tools.
-If you want to learn more about how I use tools from the DevOps toolbox to help organizations and teams shorten their
-lead time and increase their revenue, get in touch and let's [discuss how we can work together](/work-with-me/).
--->
+Releasing a product will always come with an inherent risk of failure, but it is
+possible to minimise the risk by incorporating `feedback` in your development
+process.
+For instance, you can gather feedback by creating prototypes, made out of
+cheaper materials, in smaller quantities, with limited functionality, and have
+a few users test your product for you.
 
-> DevOps is speed, which is achievable when your operations department enables the software development teams to take
-> complete ownership of their services.
+More specifically, in the case of software development, we have multiple phases
+between thinking:
+_"Hmm. Will the user want this change?"_ and actually shipping a new version of
+our software, where we can gather feedback to better learn whether we are
+building the right thing.
 
-If this sounds intriguing or interesting, checkout my [_work with me_]({{ site.base }}/work-with-me/) page.
-You'll find more info about me and my company there, as well as my preferred ways for you to get in touch.
+I run a small consultancy focused on solving this simple (yet so difficult) task.
+If this sounds intriguing or interesting, checkout my
+[_work with me_]({{ site.base }}/work-with-me/) page.
+You'll find more info about me and my company there, as well as my preferred ways
+for you to get in touch.
 
 ---
 
