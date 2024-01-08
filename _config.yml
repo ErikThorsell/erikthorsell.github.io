@@ -51,7 +51,7 @@ author:
   links:
     - label: "Resumé"
       icon: "far fa-file-alt"
-      url: "/assets/erikthorsell_cv.pdf"
+      url: "/assets/resumes/erik_thorsell-rfc_en.pdf"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/erikthorsell"

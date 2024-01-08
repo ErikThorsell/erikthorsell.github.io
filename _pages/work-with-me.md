@@ -57,4 +57,4 @@ Add a 🚀 in the subject and I'll prioritize replying to your message!
 
 
 [devops-handbook]: https://www.goodreads.com/book/show/26083308-the-devops-handbook "The DevOps Handbook"
-[resume]: /assets/erikthorsell_cv.pdf "My resumé"
+[resume]: /assets/resumes/erik_thorsell-rfc_en.pdf "My resumé"

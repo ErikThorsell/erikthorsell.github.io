@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Resumé"
-    url: /assets/erikthorsell_cv.pdf
+    url: /assets/resumes/erik_thorsell-rfc_en.pdf
   - title: "Blog"
     url: /posts/
   - title: "Chalmers"
