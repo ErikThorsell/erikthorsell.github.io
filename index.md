@@ -4,43 +4,30 @@ author_profile: true
 title: "It's all about feedback"
 ---
 
-A successful company is able to provide a monetised solution to a user's problem.
-That seems easy enough, until you ask yourself the first (obvious) question:
+My name is Erik and over the last ten years I have been very interested in the
+concept of conveying information.
+Sometimes it concerns teaching a class or a colleague about something by giving
+a live presentation.
+Sometimes it's about writing documentation, a news article or a blog post.
+Regardless, it is **always** about you knowing something and a wish to share
+that _something_ with someone else.
 
-> What problem am I trying to solve?
+During my university studies I started teaching mathematics to younger peers
+using the [Socratic method](https://en.wikipedia.org/wiki/Socratic_method);
+and quite early on realised that I wanted to make a career out of understanding
+-- and helping others understand -- how people and organisations can be more
+efficient when it comes to creating and sharing information.
 
-You might be able to find a problem in your own life and think: "Others _must_
-have the same experience. I'm going to solve this!"
-After thinking hard, filling sketchbooks and whiteboards with ideas, and months
-of work you finally have your _thing_.
-Which gives rise to the second question:
+Since graduating, I have been able to combine my interest in technology with
+the one I have for conveying information in the areas around _Continuous 
+Everything_[^ci] and today, I run a small consultancy company focused on
+solving the issue with _feedback_ in tech organisations.
 
-> Will my users pay for the solution I'm providing?
+> What is feedback really? \
+> How do we ensure we get the right information to the right people? \
+> Who is responsible for acquiring the data? \
+> How does this even relate to programming, building software and tech in general?!
 
-In a perfect world, you _are_ able to count your chickens before they've hatched
-and can confidently say that your solution will be well received and loved by
-your users.
-But the world is not perfect.
-Until you have made your solution available to your users, you will not know
-whether they like it or not.
-
-Phrased differently, you find an answer to the question above by receiving
-`feedback`.
-
-Releasing a product will always come with an inherent risk of failure, but it is
-possible to minimise the risk by incorporating `feedback` in your development
-process.
-For instance, you can gather feedback by creating prototypes, made out of
-cheaper materials, in smaller quantities, with limited functionality, and have
-a few users test your product for you.
-
-More specifically, in the case of software development, we have multiple phases
-between thinking:
-_"Hmm. Will the user want this change?"_ and actually shipping a new version of
-our software, where we can gather feedback to better learn whether we are
-building the right thing.
-
-I run a small consultancy focused on solving this simple (yet so difficult) task.
 If this sounds intriguing or interesting, checkout my
 [_work with me_]({{ site.base }}/work-with-me/) page.
 You'll find more info about me and my company there, as well as my preferred ways
@@ -53,3 +40,6 @@ for you to get in touch.
 {% for post in site.posts limit:5 %}  
   <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>  
 {% endfor %}  
+
+---
+[^ci]: Continuous Integration \| Continuous Delivery \| Continuous Deployment \| Continuous Improvement \| ...

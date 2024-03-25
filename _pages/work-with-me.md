@@ -5,47 +5,55 @@ permalink: /work-with-me/
 author_profile: true
 ---
 
-My goal is to help organisations better understand and embrace the power of
-iterative improvements.
-I have a large interest in automation and feedback, and how these concepts
-can be applied to increase revenue in software development companies.
-
 I'm convinced that companies which strive to automate as much of their software
-lifecycle as possible as well as are attentive to their customers' needs, will
+lifecycle as possible and are attentive to their customers' needs, will
 deliver higher quality software at a faster pace.
 I can help your organisation achieve this.
 
 ## My background
 
-My career started with software development and I still write code on a daily basis.
-However, it's not much Java SpringBoot any more.
-Instead, I write code to automate processes (Python and Bash) and codify
-infrastructure (Terraform, Packer as well as
-Ansible).
+I hold a B.Sc. and a M.Sc.Eng in Computer Science as well as a M.Sc. in
+Computer Science, Algorithms, Languages and Logic -- all from Chalmers
+University of Technology.
+I concentrated my masters studies to machine learning, artificial intelligence
+and optimisation and wrote both my theses on machine learning topics[^ml-resume].
 
-After a couple of years as a developer, my career pivoted towards leadership.
-I have worked as a Scrum Master and a Team Facilitator, where I have helped
-teams find *their* best way of working.
-I also spent six months as acting Line Manager at Ericsson.
+Post graduating I worked as a software developer but quickly understood that
+my interest is predominantly in _what_ and _why_ we write certain code, not
+necessarily _how_.
+Therefore, the trajectory of my career has taken me through roles like _Scrum
+Master_, _Team Facilitator_ and _Line Manager_ until I eventually found my
+preferred way of working as a consultant.
 
 ## My offering
 
-My two biggest strengths are that I have done a little bit of everything and
-that I always strive to improve.
-I understand management's point of view, sale's, operation's as well as the developers'.
-All parts of the organisation usually want to achieve similar things: Remove hurdles,
-increase speed, shorten the feedback loop, get better results, increase profit; but
-they see different ways there.
-Together, we find a common way.
+Today, I lead a small consultancy company: [Request for
+Coffee](https://requestforcoffee.dev), through which I focus on _everything
+DevOps_, be it strategic or practical.
+I call myself a `DevOps Transformation Leader` and I really believe that the
+methods that have been rejuvenated by the DevOps boom can do to software
+development what Lean did to manufacturing.
 
-Today, I lead a small consultancy: Request for Coffee.
-RFC focus on _everything DevOps_, be it strategic or practical, with a strong
-focus on combining technical know how with leadership and management skills to
-help organisations deliver software faster.
-I call myself a `DevOps Transformation Leader` and I believe that DevOps will do
-to software development what Lean did to manufacturing.
+I'm a developer -- sort of -- but the code I write is not the kind that makes
+its way into an app on your phone, an embedded device in your car, or onto a
+webpage.
+Instead, I write code which helps the people developing those things do a better
+job.
+I automate processes and write pipelines, using Python and Bash, and I codify
+infrastructure using tools like Terraform, CDK and Ansible.
+My favourite thing is to create and setup tools for other developers to
+use[^platform] and then teach the importance of these tools and how they can be
+used to make better decisions about what to develop next.
 
-Let's transform your organisation, together.
+I'm also a teacher, presenter, leader and coach -- sort of.
+I have chosen the consultancy road and consultancy assignments aren't meant
+to last forever.
+(My preferred assignment length is more like a year or two.)
+When my assignment comes to an end, I will have failed if your organisation
+cannot continue to reap the benefits of the work we have accomplished together.
+If our paths cross again, I want to hear about how you were able to build on
+top of what we built together and how you have been continuously improving
+ever since.
 
 ## Get in touch
 
@@ -54,16 +62,12 @@ I prefer [emails](mailto:erik@requestforcoffee.dev), but [LinkedIn](https://www.
 too.
 Add a 🚀 in the subject and I'll prioritize replying to your message!
 
+Let's transform your organisation, together.
+
 
 <!-- REFERENCES -->
-[^meta-programming]: *Not* application programming, but the programming you need to do to ensure you
-                     can safely and swiftly deploy services to production.
-                     Infrastructure as Code, integration and deployment pipelines, (automated) documentation, etc.
-
-[^swedish-saying]: Direct translation of a Swedish saying.
-
-[^soft-skill]: Not quite sure what is "soft" about what is commonly referred to as *soft skills*, but I think you get
-               what I mean.
+[^ml-resume]: My theses can be found on these links: [B.Sc Thesis](https://hdl.handle.net/20.500.12380/244534) -- [M.Sc Thesis](https://hdl.handle.net/20.500.12380/255285).
+[^platform]: Roles focusing exclusively on this kind of work are commonly referred to as `platform engineer` (or maybe `DevOps engineer`, if the company has not quite understand what DevOps is).
 
 
 [devops-handbook]: https://www.goodreads.com/book/show/26083308-the-devops-handbook "The DevOps Handbook"
