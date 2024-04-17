@@ -1,32 +1,26 @@
 ---
 layout: single
 author_profile: true
-title: "It's all about feedback"
+title: "Hi, care for a cup ☕ ?"
 ---
 
-My name is Erik and over the last ten years I have been very interested in the
-concept of conveying information.
-Sometimes it concerns teaching a class or a colleague about something by giving
-a live presentation.
-Sometimes it's about writing documentation, a news article or a blog post.
-Regardless, it is **always** about you knowing something and a wish to share
-that _something_ with someone else.
+My name is Erik and I'm a solution-oriented DevOps enthusiast, who believes
+the best way to generate value in a software company is by tearing down walls
+and helping developers deliver new
+functionality faster.
+On top of this, I like to share my experiences -- predominantly in text form --
+on [the blog that I host on this site]({{ site.base }}/posts/).
 
-During my university studies I started teaching mathematics to younger peers
-using the [Socratic method](https://en.wikipedia.org/wiki/Socratic_method);
-and quite early on realised that I wanted to make a career out of understanding
--- and helping others understand -- how people and organisations can be more
-efficient when it comes to creating and sharing information.
+Work wise I run my own consultancy company ([Request for
+Coffee](https://requestforcoffee.dev)) which focuses on helping companies adopt
+best practices from DevOps and Agile.
+The assignments I take on are seldom alike.
+Sometimes I am brought in to strengthen an existing platform team, whereas other
+times I help clients both with analysing their existing way-of-working as well
+as guide them along the way to their new goals.
 
-Since graduating, I have been able to combine my interest in technology with
-the one I have for conveying information in the areas around _Continuous 
-Everything_[^ci] and today, I run a small consultancy company focused on
-solving the issue with _feedback_ in tech organisations.
-
-> What is feedback really? \
-> How do we ensure we get the right information to the right people? \
-> Who is responsible for acquiring the data? \
-> How does this even relate to programming, building software and tech in general?!
+When I'm not working I spend my time with my family, as a music leader in our
+church, training for my next triathlon or fiddling with my home automation.
 
 If this sounds intriguing or interesting, checkout my
 [_work with me_]({{ site.base }}/work-with-me/) page.

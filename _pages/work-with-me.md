@@ -17,6 +17,10 @@ Computer Science, Algorithms, Languages and Logic -- all from Chalmers
 University of Technology.
 I concentrated my masters studies to machine learning, artificial intelligence
 and optimisation and wrote both my theses on machine learning topics[^ml-resume].
+During my studies I worked part-time at a machine learning startup, founded by
+a Chalmers professor.
+I took a class for the professor and was offered a position at the end of the
+semester.
 
 Post graduating I worked as a software developer but quickly understood that
 my interest is predominantly in _what_ and _why_ we write certain code, not
