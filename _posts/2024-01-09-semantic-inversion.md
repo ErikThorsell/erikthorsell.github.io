@@ -41,8 +41,8 @@ The image is a perfect example of how to incorporate the right hand side of all
 statements above.
 
 <p align="center">
-  <a href="{{ site.url }}/assets/images/safe.png">
-    <img width="800" src="{{ site.url }}/assets/images/safe.png">
+  <a href="https://scaledagileframework.com/wp-content/uploads/2023/03/Full-1.png">
+    A link to the SAFe image.
   </a>
 </p>
 
@@ -105,23 +105,11 @@ in between the developers and operation department, effectively moving the
 developers even further from the end-users.
 
 And just like agile has been devoured by processes, the very thing it strived
-to eradicate, DevOps has become a checklist; ensuring we use certain tools.
-
-<p align="center">
-  <a href="{{ site.url }}/assets/images/devops-with-tools.png">
-    <img width="800" src="{{ site.url }}/assets/images/devops-with-tools.png">
-  </a>
-</p>
-
+to eradicate, DevOps has become a checklist; ensuring we use certain tools
 when -- at its core -- DevOps is just a never ending loop.
 Its only purpose to provide a way for developers to take complete ownership of
 their deliverables' life cycle.
 
-<p align="center">
-  <a href="{{ site.url }}/assets/images/devops-no-tools.png">
-    <img width="800" src="{{ site.url }}/assets/images/devops-no-tools.png">
-  </a>
-</p>
 
 ## The buts and exceptions
 
