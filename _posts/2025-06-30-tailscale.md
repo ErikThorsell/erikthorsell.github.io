@@ -23,13 +23,13 @@ be told I never really got it to work the way I wanted it to.
 
 A couple of years ago, I first heard about [Tailscale](https://tailscale.com/). I figured it seemed like a nice product,
 but I didn't really have a need for such a solution at the time. This all changed when I wanted to have a NAS at my
-mother's place to act as an off-site backup. Her crappy, IPS provided, little router/firewall/switch combo-box did not
-have the possibility to run a VPN Server. I also doubt her IPS would provide a public IP for her. Lastly, even if both
+mother's place to act as an off-site backup. Her crappy, ISP-provided, little router/firewall/switch combo-box did not
+have the possibility to run a VPN Server. I also doubt her ISP would provide a public IP for her. Lastly, even if both
 of these assumptions proved to be incorrect, I would not want to setup port forwarding in her firewall.
 
 Well....
 
-I started to look into to Tailscale a little bit more and found that it was perfectly suited for this use case. I sat
+I started to look into Tailscale a little bit more and found that it was perfectly suited for this use case. I sat
 down to install Tailscale on the NAS and on my laptop, deployed a simple `Allow all` ACL configuration, and they could
 talk within minutes. I joined my phone and all three devices were now able to talk to each other as if they were on the
 same LAN.
@@ -38,9 +38,9 @@ _Sweet._
 
 ## Tailscale as a regular VPN
 
-The tailnet solved the problem:
+Tailscale solved the problem:
 
-> How should I be able to communicate with a device which is not really accessible from the Internet?
+> How should I be able to communicate with a device which is not really accessible over the public Internet?
 
 but I still ran my OpenVPN Server in parallel for a long time (years), simply because I wasn't sure whether Tailscale
 would be able to satisfy my other VPN-needs.
@@ -63,22 +63,10 @@ offers to be an exit node _and_ advertises routes. More specifically, I have adv
 VLAN where I have _the things I want to be able to connect to_ as well as `/32`-CIDR which points at the IP of my
 reverse proxy. I have also enabled both _Accept DNS_ and _Accept Subnet Routes_.
 
-On the Tailscale side I have the following ACL:
+On the Tailscale side I have the following grants:
 
 ```hujson
 {
-  "groups": {
-    "group:admins": [<list of users>],
-    "group:family": [<list of users>]
-  },
-  "tagOwners": {
-    "tag:admin-devices": [<list of users>],
-    "tag:pfsense": [<list of users>],
-    "tag:exit-node": [<list of users>],
-    "tag:synology-mom": [<list of users>],
-    "tag:family-devices": [<list of users>]
-  },
-
  "grants": [
     // Allow admin-devices to reach everything
     {
