@@ -124,4 +124,5 @@ thusfar is that the Tailscale iOS client is quite the battery drainer, so the _V
 <!-- FEET NOTES -->
 [^firstvpn]: More recent use cases also includes (3) being able to stream content only available from Sweden, when
     going abroad.
+
 [^netgate]: This is not a post about Netgate politics and controversies, maybe another post...
