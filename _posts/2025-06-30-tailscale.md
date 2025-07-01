@@ -4,7 +4,7 @@ title: I replaced both OpenVPN and Wireguard with Tailscale on pfSense
 
 Ever since I got my own place I have been hosting my own VPN. The purpose has been both to (1) ensure I can reach _my
 stuff_ when I'm out and about, and (2) have a way to tunnel traffic when connecting to networks I'm not in
-control of[^firstvpn]. I started of my VPN-journey with my good 'ol [Asus
+control of[^firstvpn]. I started my VPN-journey with my good 'ol [Asus
 RT-N66U](https://openwrt.org/toh/asus/rt-n66u) which had a rudimentary PPTP VPN built in, but I quickly replaced the
 default firmware with [Tomato](https://advancedtomato.com/) and IIRC I ran an OpenVPN Server for a while. I say _"for a
 while"_, because I soon upgraded(?) my setup significantly, by building my own Debian-based router where I -- again --
