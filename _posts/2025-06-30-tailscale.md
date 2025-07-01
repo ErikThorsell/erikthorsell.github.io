@@ -22,7 +22,7 @@ be told I never really got it to work the way I wanted it to.
 ## Tailscale as a mesh network
 
 A couple of years ago, I first heard about [Tailscale](https://tailscale.com/). I figured it seemed like a nice product,
-but I didn't really have a need for such a solution at the time. This all changed when I wanted to place a NAS at my
+but I didn't really have a need for such a solution at the time. This all changed when I wanted to have a NAS at my
 mother's place to act as an off-site backup. Her crappy, IPS provided, little router/firewall/switch combo-box did not
 have the possibility to run a VPN Server. I also doubt her IPS would provide a public IP for her. Lastly, even if both
 of these assumptions proved to be incorrect, I would not want to setup port forwarding in her firewall.
