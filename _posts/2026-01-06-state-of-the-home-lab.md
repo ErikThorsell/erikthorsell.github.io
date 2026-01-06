@@ -26,13 +26,14 @@ Now](https://www.bsdnow.tv/) podcast (then hosted by: [Allan Jude](http://www.al
 Persuaded by the BSD folks, I decided to go with FreeNAS (which would be renamed to [TrueNAS
 Core](https://en.wikipedia.org/wiki/TrueNAS) in 2021) as my server OS.
 
-## A change of philosophy
+I went all in on FreeNAS and BSD and hosted a handful of applications in jails. At some point I was unable to build some
+application for FreeBSD and struggled _a lot_ with running Linux VM:s under FreeNAS to get Docker support. It worked,
+but it was not particularly pleasant. In 2016 the woman who would become my wife moved to Sweden, and in with me,
+meaning I now had an additional issue: Another user, who had uptime and availability expectations on the few services
+she enjoyed using (mostly Plex)... Safe to say, I was becoming more and more frustrated with FreeNAS as an "application
+hosting OS".
 
-Back in 2014, I went all in on FreeNAS and BSD. I hosted a handful of applications in jails and struggled _a lot_ with
-running Linux VM:s under FreeNAS to get Docker support. It worked, but it was not particularly pleasant. In 2016 the
-woman who would become my wife moved to Sweden, and in with me, meaning I now had an additional issue: Another user, who
-had uptime and availability expectations on the few services she enjoyed using (mostly Plex)... Safe to say, I was
-becoming more and more frustrated with FreeNAS as an "application hosting OS".
+## A change of philosophy
 
 About the same time as FreeNAS morphed into TrueNAS Core, I was really getting sick and tired of the poor Docker support
 in FreeNAS. I was also pushing my little server to its limit compute-wise. So I pulled the peripherals out of my gaming
