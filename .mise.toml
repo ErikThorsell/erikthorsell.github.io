@@ -1,0 +1,14 @@
+[tools]
+ruby = "3.4.7"
+
+[tasks.setup]
+description = "Install the site dependencies"
+run = "bundle install"
+
+[tasks.serve]
+description = "Serve the site locally, including drafts"
+run = "bundle exec jekyll serve --drafts"
+
+[tasks.build]
+description = "Build the site"
+run = "bundle exec jekyll build"

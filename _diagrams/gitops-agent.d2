@@ -1,0 +1,59 @@
+# Render (d2 v0.9.0): d2 --layout elk --elk-nodeNodeBetweenLayers 40 --pad 20 _diagrams/gitops-agent.d2 assets/images/gitops-agent.svg
+direction: right
+
+style.fill: "#f4f4f4"
+
+classes: {
+  box: {
+    style: {
+      fill: "#ffffff"
+      stroke: "#222222"
+      stroke-width: 2
+      font: mono
+      font-size: 28
+      border-radius: 4
+    }
+  }
+  edge: {
+    style: {
+      stroke: "#222222"
+      font: mono
+      font-size: 24
+      font-color: "#222222"
+      italic: false
+    }
+  }
+}
+
+repo: Repository {
+  class: box
+  shape: rectangle
+  state: "desired state\n(code)" {
+    class: box
+    shape: page
+    width: 280
+    height: 220
+  }
+}
+
+agent: Agent {
+  class: box
+  style.fill: "#dde8f5"
+  style.stroke: "#1a6fd6"
+  width: 200
+  height: 300
+}
+
+env: Environment {
+  class: box
+  app: "application\n(actual state)" {
+    class: box
+    shape: hexagon
+    width: 340
+    height: 220
+  }
+}
+
+agent <- env.app: "(1) observe\nactual state" {class: edge; style.stroke-dash: 4}
+repo.state -> agent: "(2) observe\ndesired state" {class: edge; style.stroke-dash: 4}
+agent -> env.app: "(3) reconcile\nthe difference" {class: edge; style.stroke-width: 3}
